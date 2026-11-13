@@ -27,14 +27,6 @@ notebooks/                starter notebooks
 scripts/                  how the subset was built from the original record
 ```
 
-## Publishing
-
-The website is served by GitHub Pages from the `docs/` folder: make the repository public, then enable
-**Settings → Pages → Deploy from branch → `main` / `docs`**. Links and Colab badges assume the repository
-`github.com/albgirelli/gonzo-viewer`; if it moves, replace `albgirelli/gonzo-viewer` everywhere.
-
-To preview the website locally: `python -m http.server -d docs` and open <http://localhost:8000>.
-
 ## Rebuilding the subset
 
 Download `mri-processed.zip` and `mesh-data.zip` (plus `mri_dataset/timetable.tsv` and
