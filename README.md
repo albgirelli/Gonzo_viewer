@@ -5,7 +5,7 @@ the cerebrospinal fluid of a healthy human volunteer, imaged before injection an
 after. The repository also contains a lightweight subset of the data (≈50 MB) and starter notebooks for
 teaching, quick exploration and modelling.
 
-* **Website** (dataset description, slice viewer with DTI maps, regional curves): `https://albgirelli.github.io/gonzo-viewer/`
+* **Website** (dataset description, slice viewer with DTI maps, regional curves): `https://albgirelli.github.io/Gonzo_viewer/`
 * **Original dataset**: Riseth et al., Zenodo, [10.5281/zenodo.14266867](https://doi.org/10.5281/zenodo.14266867)
 * **Data descriptor**: [medRxiv 10.1101/2025.07.23.25331971](https://doi.org/10.1101/2025.07.23.25331971)
 * **Processing pipeline**: [github.com/jorgenriseth/gonzo](https://github.com/jorgenriseth/gonzo)

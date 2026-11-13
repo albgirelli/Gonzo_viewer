@@ -8,13 +8,13 @@ SETUP = '''# Setup: works both locally (inside the cloned repository) and on Goo
 from pathlib import Path
 import subprocess
 
-REPO_URL = "https://github.com/albgirelli/gonzo-viewer"
+REPO_URL = "https://github.com/albgirelli/Gonzo_viewer"
 if Path("../data/regions.csv").exists():
     DATA = Path("../data")
 else:
-    if not Path("gonzo-viewer").exists():
+    if not Path("Gonzo_viewer").exists():
         subprocess.run(["git", "clone", "-q", "--depth", "1", REPO_URL], check=True)
-    DATA = Path("gonzo-viewer/data")
+    DATA = Path("Gonzo_viewer/data")
 
 import numpy as np
 import pandas as pd
@@ -31,7 +31,7 @@ def nb(cells):
 
 def badge(name):
     return (f"[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]"
-            f"(https://colab.research.google.com/github/albgirelli/gonzo-viewer/blob/main/notebooks/{name})")
+            f"(https://colab.research.google.com/github/albgirelli/Gonzo_viewer/blob/main/notebooks/{name})")
 
 
 explore = nb([
