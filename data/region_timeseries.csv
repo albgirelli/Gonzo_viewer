@@ -1,0 +1,1041 @@
+label,name,group,kind,session,hours_after_injection,volume_ml,mean_concentration_mmol_per_L,amount_umol
+2,Left cerebral white matter,White matter,tissue,ses-01,0,205.557,0,0
+2,Left cerebral white matter,White matter,tissue,ses-02,4.36576,205.557,0.000971729,0.199746
+2,Left cerebral white matter,White matter,tissue,ses-03,23.8892,205.557,0.0362462,7.45066
+2,Left cerebral white matter,White matter,tissue,ses-04,47.8556,205.557,0.0447972,9.20838
+2,Left cerebral white matter,White matter,tissue,ses-05,69.9003,205.557,0.0321295,6.60445
+7,Left cerebellum white matter,Cerebellum,tissue,ses-01,0,11.5913,0,0
+7,Left cerebellum white matter,Cerebellum,tissue,ses-02,4.36576,11.5913,0.0220461,0.255544
+7,Left cerebellum white matter,Cerebellum,tissue,ses-03,23.8892,11.5913,0.0371111,0.430168
+7,Left cerebellum white matter,Cerebellum,tissue,ses-04,47.8556,11.5913,0.0336408,0.389942
+7,Left cerebellum white matter,Cerebellum,tissue,ses-05,69.9003,11.5913,0.0216641,0.251115
+8,Left cerebellum cortex,Cerebellum,tissue,ses-01,0,39.4789,0,0
+8,Left cerebellum cortex,Cerebellum,tissue,ses-02,4.36576,39.4789,0.0348891,1.37738
+8,Left cerebellum cortex,Cerebellum,tissue,ses-03,23.8892,39.4789,0.0559256,2.20788
+8,Left cerebellum cortex,Cerebellum,tissue,ses-04,47.8556,39.4789,0.0394151,1.55606
+8,Left cerebellum cortex,Cerebellum,tissue,ses-05,69.9003,39.4789,0.0235471,0.929613
+10,Left thalamus,Deep grey matter,tissue,ses-01,0,6.30257,0,0
+10,Left thalamus,Deep grey matter,tissue,ses-02,4.36576,6.30257,0.0150907,0.0951104
+10,Left thalamus,Deep grey matter,tissue,ses-03,23.8892,6.30257,0.0313858,0.197811
+10,Left thalamus,Deep grey matter,tissue,ses-04,47.8556,6.30257,0.0182381,0.114947
+10,Left thalamus,Deep grey matter,tissue,ses-05,69.9003,6.30257,0.0111241,0.0701107
+11,Left caudate,Deep grey matter,tissue,ses-01,0,3.1546,0,0
+11,Left caudate,Deep grey matter,tissue,ses-02,4.36576,3.1546,0.0136015,0.0429074
+11,Left caudate,Deep grey matter,tissue,ses-03,23.8892,3.1546,0.0280227,0.0884005
+11,Left caudate,Deep grey matter,tissue,ses-04,47.8556,3.1546,0.011923,0.0376123
+11,Left caudate,Deep grey matter,tissue,ses-05,69.9003,3.1546,0.00360568,0.0113745
+12,Left putamen,Deep grey matter,tissue,ses-01,0,4.37379,0,0
+12,Left putamen,Deep grey matter,tissue,ses-02,4.36576,4.37379,-0.000347347,-0.00151922
+12,Left putamen,Deep grey matter,tissue,ses-03,23.8892,4.37379,0.0114623,0.0501336
+12,Left putamen,Deep grey matter,tissue,ses-04,47.8556,4.37379,0.0224815,0.0983294
+12,Left putamen,Deep grey matter,tissue,ses-05,69.9003,4.37379,0.0168242,0.0735855
+13,Left pallidum,Deep grey matter,tissue,ses-01,0,1.691,0,0
+13,Left pallidum,Deep grey matter,tissue,ses-02,4.36576,1.691,0.000977825,0.0016535
+13,Left pallidum,Deep grey matter,tissue,ses-03,23.8892,1.691,0.00307694,0.00520311
+13,Left pallidum,Deep grey matter,tissue,ses-04,47.8556,1.691,0.0170753,0.0288743
+13,Left pallidum,Deep grey matter,tissue,ses-05,69.9003,1.691,0.0126973,0.0214712
+16,Brainstem,Brainstem,tissue,ses-01,0,18.7682,0,0
+16,Brainstem,Brainstem,tissue,ses-02,4.36576,18.7682,0.0589969,1.10727
+16,Brainstem,Brainstem,tissue,ses-03,23.8892,18.7682,0.0546074,1.02489
+16,Brainstem,Brainstem,tissue,ses-04,47.8556,18.7682,0.0321816,0.603993
+16,Brainstem,Brainstem,tissue,ses-05,69.9003,18.7682,0.0191813,0.359999
+17,Left hippocampus,Deep grey matter,tissue,ses-01,0,3.43566,0,0
+17,Left hippocampus,Deep grey matter,tissue,ses-02,4.36576,3.43566,0.0508442,0.174683
+17,Left hippocampus,Deep grey matter,tissue,ses-03,23.8892,3.43566,0.0588582,0.202217
+17,Left hippocampus,Deep grey matter,tissue,ses-04,47.8556,3.43566,0.0295845,0.101642
+17,Left hippocampus,Deep grey matter,tissue,ses-05,69.9003,3.43566,0.0200253,0.0688001
+18,Left amygdala,Deep grey matter,tissue,ses-01,0,1.17603,0,0
+18,Left amygdala,Deep grey matter,tissue,ses-02,4.36576,1.17603,0.0295568,0.0347598
+18,Left amygdala,Deep grey matter,tissue,ses-03,23.8892,1.17603,0.0465086,0.0546956
+18,Left amygdala,Deep grey matter,tissue,ses-04,47.8556,1.17603,0.0268759,0.031607
+18,Left amygdala,Deep grey matter,tissue,ses-05,69.9003,1.17603,0.0175163,0.0205998
+26,Left accumbens,Deep grey matter,tissue,ses-01,0,0.523849,0,0
+26,Left accumbens,Deep grey matter,tissue,ses-02,4.36576,0.523849,-0.00157693,-0.000826074
+26,Left accumbens,Deep grey matter,tissue,ses-03,23.8892,0.523849,0.0371682,0.0194705
+26,Left accumbens,Deep grey matter,tissue,ses-04,47.8556,0.523849,0.0297331,0.0155756
+26,Left accumbens,Deep grey matter,tissue,ses-05,69.9003,0.523849,0.0181868,0.00952715
+28,Left ventral DC,Deep grey matter,tissue,ses-01,0,3.3506,0,0
+28,Left ventral DC,Deep grey matter,tissue,ses-02,4.36576,3.3506,0.0534268,0.179012
+28,Left ventral DC,Deep grey matter,tissue,ses-03,23.8892,3.3506,0.0513586,0.172082
+28,Left ventral DC,Deep grey matter,tissue,ses-04,47.8556,3.3506,0.0290283,0.0972623
+28,Left ventral DC,Deep grey matter,tissue,ses-05,69.9003,3.3506,0.0183468,0.0614729
+31,Left choroid plexus,Other tissue,tissue,ses-01,0,0.340852,0,0
+31,Left choroid plexus,Other tissue,tissue,ses-02,4.36576,0.340852,0.0728178,0.0248201
+31,Left choroid plexus,Other tissue,tissue,ses-03,23.8892,0.340852,0.0565051,0.0192599
+31,Left choroid plexus,Other tissue,tissue,ses-04,47.8556,0.340852,0.0144345,0.00492004
+31,Left choroid plexus,Other tissue,tissue,ses-05,69.9003,0.340852,0.00668458,0.00227845
+41,Right cerebral white matter,White matter,tissue,ses-01,0,206.66,0,0
+41,Right cerebral white matter,White matter,tissue,ses-02,4.36576,206.66,-0.00096393,-0.199206
+41,Right cerebral white matter,White matter,tissue,ses-03,23.8892,206.66,0.0307908,6.36323
+41,Right cerebral white matter,White matter,tissue,ses-04,47.8556,206.66,0.0391121,8.08291
+41,Right cerebral white matter,White matter,tissue,ses-05,69.9003,206.66,0.0305524,6.31397
+46,Right cerebellum white matter,Cerebellum,tissue,ses-01,0,12.0155,0,0
+46,Right cerebellum white matter,Cerebellum,tissue,ses-02,4.36576,12.0155,0.0198648,0.238686
+46,Right cerebellum white matter,Cerebellum,tissue,ses-03,23.8892,12.0155,0.0336262,0.404035
+46,Right cerebellum white matter,Cerebellum,tissue,ses-04,47.8556,12.0155,0.0300255,0.360772
+46,Right cerebellum white matter,Cerebellum,tissue,ses-05,69.9003,12.0155,0.0226279,0.271885
+47,Right cerebellum cortex,Cerebellum,tissue,ses-01,0,41.7035,0,0
+47,Right cerebellum cortex,Cerebellum,tissue,ses-02,4.36576,41.7035,0.031986,1.33393
+47,Right cerebellum cortex,Cerebellum,tissue,ses-03,23.8892,41.7035,0.0627075,2.61512
+47,Right cerebellum cortex,Cerebellum,tissue,ses-04,47.8556,41.7035,0.0371571,1.54958
+47,Right cerebellum cortex,Cerebellum,tissue,ses-05,69.9003,41.7035,0.0205527,0.857118
+49,Right thalamus,Deep grey matter,tissue,ses-01,0,5.90093,0,0
+49,Right thalamus,Deep grey matter,tissue,ses-02,4.36576,5.90093,0.0209026,0.123345
+49,Right thalamus,Deep grey matter,tissue,ses-03,23.8892,5.90093,0.0389045,0.229572
+49,Right thalamus,Deep grey matter,tissue,ses-04,47.8556,5.90093,0.0296891,0.175194
+49,Right thalamus,Deep grey matter,tissue,ses-05,69.9003,5.90093,0.0199273,0.11759
+50,Right caudate,Deep grey matter,tissue,ses-01,0,3.38663,0,0
+50,Right caudate,Deep grey matter,tissue,ses-02,4.36576,3.38663,0.00156875,0.00531276
+50,Right caudate,Deep grey matter,tissue,ses-03,23.8892,3.38663,0.0199282,0.0674894
+50,Right caudate,Deep grey matter,tissue,ses-04,47.8556,3.38663,0.0160782,0.0544509
+50,Right caudate,Deep grey matter,tissue,ses-05,69.9003,3.38663,0.00817928,0.0277002
+51,Right putamen,Deep grey matter,tissue,ses-01,0,4.314,0,0
+51,Right putamen,Deep grey matter,tissue,ses-02,4.36576,4.314,0.0022797,0.00983461
+51,Right putamen,Deep grey matter,tissue,ses-03,23.8892,4.314,0.0149274,0.0643966
+51,Right putamen,Deep grey matter,tissue,ses-04,47.8556,4.314,0.0246793,0.106467
+51,Right putamen,Deep grey matter,tissue,ses-05,69.9003,4.314,0.0210675,0.0908849
+52,Right pallidum,Deep grey matter,tissue,ses-01,0,1.68825,0,0
+52,Right pallidum,Deep grey matter,tissue,ses-02,4.36576,1.68825,-0.00178198,-0.00300842
+52,Right pallidum,Deep grey matter,tissue,ses-03,23.8892,1.68825,0.00887755,0.0149875
+52,Right pallidum,Deep grey matter,tissue,ses-04,47.8556,1.68825,0.0166854,0.028169
+52,Right pallidum,Deep grey matter,tissue,ses-05,69.9003,1.68825,0.0160899,0.0271638
+53,Right hippocampus,Deep grey matter,tissue,ses-01,0,3.2738,0,0
+53,Right hippocampus,Deep grey matter,tissue,ses-02,4.36576,3.2738,0.0515604,0.168799
+53,Right hippocampus,Deep grey matter,tissue,ses-03,23.8892,3.2738,0.0548602,0.179602
+53,Right hippocampus,Deep grey matter,tissue,ses-04,47.8556,3.2738,0.0257739,0.0843788
+53,Right hippocampus,Deep grey matter,tissue,ses-05,69.9003,3.2738,0.0166564,0.0545297
+54,Right amygdala,Deep grey matter,tissue,ses-01,0,1.44183,0,0
+54,Right amygdala,Deep grey matter,tissue,ses-02,4.36576,1.44183,0.0226732,0.032691
+54,Right amygdala,Deep grey matter,tissue,ses-03,23.8892,1.44183,0.046611,0.0672053
+54,Right amygdala,Deep grey matter,tissue,ses-04,47.8556,1.44183,0.0335551,0.0483809
+54,Right amygdala,Deep grey matter,tissue,ses-05,69.9003,1.44183,0.0194667,0.0280677
+58,Right accumbens,Deep grey matter,tissue,ses-01,0,0.509714,0,0
+58,Right accumbens,Deep grey matter,tissue,ses-02,4.36576,0.509714,0.010496,0.00534995
+58,Right accumbens,Deep grey matter,tissue,ses-03,23.8892,0.509714,0.0476618,0.0242939
+58,Right accumbens,Deep grey matter,tissue,ses-04,47.8556,0.509714,0.0326904,0.0166627
+58,Right accumbens,Deep grey matter,tissue,ses-05,69.9003,0.509714,0.0215631,0.010991
+60,Right ventral DC,Deep grey matter,tissue,ses-01,0,3.51496,0,0
+60,Right ventral DC,Deep grey matter,tissue,ses-02,4.36576,3.51496,0.0531721,0.186898
+60,Right ventral DC,Deep grey matter,tissue,ses-03,23.8892,3.51496,0.05522,0.194096
+60,Right ventral DC,Deep grey matter,tissue,ses-04,47.8556,3.51496,0.0365601,0.128507
+60,Right ventral DC,Deep grey matter,tissue,ses-05,69.9003,3.51496,0.0196552,0.0690872
+63,Right choroid plexus,Other tissue,tissue,ses-01,0,0.335098,0,0
+63,Right choroid plexus,Other tissue,tissue,ses-02,4.36576,0.335098,0.0672776,0.0225446
+63,Right choroid plexus,Other tissue,tissue,ses-03,23.8892,0.335098,0.0507429,0.0170039
+63,Right choroid plexus,Other tissue,tissue,ses-04,47.8556,0.335098,0.0159339,0.00533943
+63,Right choroid plexus,Other tissue,tissue,ses-05,69.9003,0.335098,0.000835963,0.00028013
+77,White matter hypointensities,White matter,tissue,ses-01,0,1.97369,0,0
+77,White matter hypointensities,White matter,tissue,ses-02,4.36576,1.97369,0.0229201,0.0452371
+77,White matter hypointensities,White matter,tissue,ses-03,23.8892,1.97369,0.0490082,0.0967269
+77,White matter hypointensities,White matter,tissue,ses-04,47.8556,1.97369,0.0272123,0.0537086
+77,White matter hypointensities,White matter,tissue,ses-05,69.9003,1.97369,0.00835687,0.0164939
+251,Corpus callosum (posterior),White matter,tissue,ses-01,0,0.418153,0,0
+251,Corpus callosum (posterior),White matter,tissue,ses-02,4.36576,0.418153,0.0490102,0.0204938
+251,Corpus callosum (posterior),White matter,tissue,ses-03,23.8892,0.418153,0.100374,0.0419719
+251,Corpus callosum (posterior),White matter,tissue,ses-04,47.8556,0.418153,0.0691086,0.028898
+251,Corpus callosum (posterior),White matter,tissue,ses-05,69.9003,0.418153,0.032935,0.0137719
+252,Corpus callosum (mid-posterior),White matter,tissue,ses-01,0,0.231029,0,0
+252,Corpus callosum (mid-posterior),White matter,tissue,ses-02,4.36576,0.231029,0.0481491,0.0111238
+252,Corpus callosum (mid-posterior),White matter,tissue,ses-03,23.8892,0.231029,0.0979848,0.0226373
+252,Corpus callosum (mid-posterior),White matter,tissue,ses-04,47.8556,0.231029,0.059954,0.0138511
+252,Corpus callosum (mid-posterior),White matter,tissue,ses-05,69.9003,0.231029,0.0282418,0.00652467
+253,Corpus callosum (central),White matter,tissue,ses-01,0,0.185874,0,0
+253,Corpus callosum (central),White matter,tissue,ses-02,4.36576,0.185874,0.025116,0.0046684
+253,Corpus callosum (central),White matter,tissue,ses-03,23.8892,0.185874,0.059861,0.0111266
+253,Corpus callosum (central),White matter,tissue,ses-04,47.8556,0.185874,0.0426126,0.00792057
+253,Corpus callosum (central),White matter,tissue,ses-05,69.9003,0.185874,0.00513778,0.000954978
+254,Corpus callosum (mid-anterior),White matter,tissue,ses-01,0,0.230904,0,0
+254,Corpus callosum (mid-anterior),White matter,tissue,ses-02,4.36576,0.230904,0.0344817,0.00796196
+254,Corpus callosum (mid-anterior),White matter,tissue,ses-03,23.8892,0.230904,0.0516025,0.0119152
+254,Corpus callosum (mid-anterior),White matter,tissue,ses-04,47.8556,0.230904,0.039961,0.00922713
+254,Corpus callosum (mid-anterior),White matter,tissue,ses-05,69.9003,0.230904,0.0119713,0.00276422
+255,Corpus callosum (anterior),White matter,tissue,ses-01,0,0.408772,0,0
+255,Corpus callosum (anterior),White matter,tissue,ses-02,4.36576,0.408772,0.0403772,0.0165051
+255,Corpus callosum (anterior),White matter,tissue,ses-03,23.8892,0.408772,0.0608802,0.0248861
+255,Corpus callosum (anterior),White matter,tissue,ses-04,47.8556,0.408772,0.0481926,0.0196998
+255,Corpus callosum (anterior),White matter,tissue,ses-05,69.9003,0.408772,0.0215543,0.00881081
+1002,Left caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,2.63713,0,0
+1002,Left caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,2.63713,0.063285,0.166891
+1002,Left caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,2.63713,0.0883918,0.233101
+1002,Left caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,2.63713,0.0364363,0.0960874
+1002,Left caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,2.63713,0.0147348,0.0388576
+1003,Left caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-01,0,6.39025,0,0
+1003,Left caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,6.39025,-0.00286951,-0.0183369
+1003,Left caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,6.39025,0.015,0.0958537
+1003,Left caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,6.39025,0.0481812,0.30789
+1003,Left caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,6.39025,0.0393727,0.251601
+1005,Left cuneus (cortex),Cortex: occipital,tissue,ses-01,0,4.07371,0,0
+1005,Left cuneus (cortex),Cortex: occipital,tissue,ses-02,4.36576,4.07371,0.0298478,0.121591
+1005,Left cuneus (cortex),Cortex: occipital,tissue,ses-03,23.8892,4.07371,0.0876755,0.357165
+1005,Left cuneus (cortex),Cortex: occipital,tissue,ses-04,47.8556,4.07371,0.0418841,0.170624
+1005,Left cuneus (cortex),Cortex: occipital,tissue,ses-05,69.9003,4.07371,0.0218097,0.0888465
+1006,Left entorhinal (cortex),Cortex: temporal,tissue,ses-01,0,1.29636,0,0
+1006,Left entorhinal (cortex),Cortex: temporal,tissue,ses-02,4.36576,1.29636,0.0383184,0.0496746
+1006,Left entorhinal (cortex),Cortex: temporal,tissue,ses-03,23.8892,1.29636,0.0720316,0.093379
+1006,Left entorhinal (cortex),Cortex: temporal,tissue,ses-04,47.8556,1.29636,0.0359678,0.0466273
+1006,Left entorhinal (cortex),Cortex: temporal,tissue,ses-05,69.9003,1.29636,0.0208287,0.0270016
+1007,Left fusiform (cortex),Cortex: temporal,tissue,ses-01,0,7.83672,0,0
+1007,Left fusiform (cortex),Cortex: temporal,tissue,ses-02,4.36576,7.83672,0.0165783,0.129919
+1007,Left fusiform (cortex),Cortex: temporal,tissue,ses-03,23.8892,7.83672,0.0528536,0.414198
+1007,Left fusiform (cortex),Cortex: temporal,tissue,ses-04,47.8556,7.83672,0.0378787,0.296844
+1007,Left fusiform (cortex),Cortex: temporal,tissue,ses-05,69.9003,7.83672,0.0224506,0.175939
+1008,Left inferiorparietal (cortex),Cortex: parietal,tissue,ses-01,0,11.0422,0,0
+1008,Left inferiorparietal (cortex),Cortex: parietal,tissue,ses-02,4.36576,11.0422,0.00120718,0.0133299
+1008,Left inferiorparietal (cortex),Cortex: parietal,tissue,ses-03,23.8892,11.0422,0.0220604,0.243596
+1008,Left inferiorparietal (cortex),Cortex: parietal,tissue,ses-04,47.8556,11.0422,0.0439015,0.48477
+1008,Left inferiorparietal (cortex),Cortex: parietal,tissue,ses-05,69.9003,11.0422,0.0320247,0.353624
+1009,Left inferiortemporal (cortex),Cortex: temporal,tissue,ses-01,0,8.01433,0,0
+1009,Left inferiortemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,8.01433,-0.000948998,-0.00760559
+1009,Left inferiortemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,8.01433,0.0331735,0.265864
+1009,Left inferiortemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,8.01433,0.0330701,0.265035
+1009,Left inferiortemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,8.01433,0.0222059,0.177966
+1010,Left isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-01,0,3.20476,0,0
+1010,Left isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,3.20476,0.0622175,0.199392
+1010,Left isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,3.20476,0.0893836,0.286453
+1010,Left isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,3.20476,0.0385001,0.123384
+1010,Left isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,3.20476,0.0203465,0.0652056
+1011,Left lateraloccipital (cortex),Cortex: occipital,tissue,ses-01,0,9.947,0,0
+1011,Left lateraloccipital (cortex),Cortex: occipital,tissue,ses-02,4.36576,9.947,0.000492602,0.00489991
+1011,Left lateraloccipital (cortex),Cortex: occipital,tissue,ses-03,23.8892,9.947,0.0336226,0.334444
+1011,Left lateraloccipital (cortex),Cortex: occipital,tissue,ses-04,47.8556,9.947,0.0387883,0.385827
+1011,Left lateraloccipital (cortex),Cortex: occipital,tissue,ses-05,69.9003,9.947,0.024189,0.240607
+1012,Left lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-01,0,5.42836,0,0
+1012,Left lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,5.42836,0.0350148,0.190073
+1012,Left lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,5.42836,0.073271,0.397741
+1012,Left lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,5.42836,0.0407203,0.221045
+1012,Left lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,5.42836,0.0183057,0.0993702
+1013,Left lingual (cortex),Cortex: occipital,tissue,ses-01,0,6.84756,0,0
+1013,Left lingual (cortex),Cortex: occipital,tissue,ses-02,4.36576,6.84756,0.0355955,0.243742
+1013,Left lingual (cortex),Cortex: occipital,tissue,ses-03,23.8892,6.84756,0.0679953,0.465602
+1013,Left lingual (cortex),Cortex: occipital,tissue,ses-04,47.8556,6.84756,0.0366558,0.251003
+1013,Left lingual (cortex),Cortex: occipital,tissue,ses-05,69.9003,6.84756,0.0199759,0.136786
+1014,Left medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-01,0,3.91836,0,0
+1014,Left medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,3.91836,0.0828239,0.324534
+1014,Left medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,3.91836,0.0970124,0.380129
+1014,Left medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,3.91836,0.0400026,0.156744
+1014,Left medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,3.91836,0.0176582,0.0691911
+1015,Left middletemporal (cortex),Cortex: temporal,tissue,ses-01,0,11.0435,0,0
+1015,Left middletemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,11.0435,-0.00319361,-0.0352686
+1015,Left middletemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,11.0435,0.030898,0.341221
+1015,Left middletemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,11.0435,0.0397857,0.439372
+1015,Left middletemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,11.0435,0.0255539,0.282204
+1016,Left parahippocampal (cortex),Cortex: temporal,tissue,ses-01,0,1.6127,0,0
+1016,Left parahippocampal (cortex),Cortex: temporal,tissue,ses-02,4.36576,1.6127,0.0780141,0.125813
+1016,Left parahippocampal (cortex),Cortex: temporal,tissue,ses-03,23.8892,1.6127,0.0870597,0.140401
+1016,Left parahippocampal (cortex),Cortex: temporal,tissue,ses-04,47.8556,1.6127,0.0395525,0.0637863
+1016,Left parahippocampal (cortex),Cortex: temporal,tissue,ses-05,69.9003,1.6127,0.0217574,0.0350881
+1017,Left paracentral (cortex),Cortex: frontal,tissue,ses-01,0,3.61516,0,0
+1017,Left paracentral (cortex),Cortex: frontal,tissue,ses-02,4.36576,3.61516,0.0256996,0.0929079
+1017,Left paracentral (cortex),Cortex: frontal,tissue,ses-03,23.8892,3.61516,0.0996628,0.360297
+1017,Left paracentral (cortex),Cortex: frontal,tissue,ses-04,47.8556,3.61516,0.0474439,0.171517
+1017,Left paracentral (cortex),Cortex: frontal,tissue,ses-05,69.9003,3.61516,0.0232188,0.0839397
+1018,Left parsopercularis (cortex),Cortex: frontal,tissue,ses-01,0,3.52435,0,0
+1018,Left parsopercularis (cortex),Cortex: frontal,tissue,ses-02,4.36576,3.52435,0.0134785,0.0475027
+1018,Left parsopercularis (cortex),Cortex: frontal,tissue,ses-03,23.8892,3.52435,0.0612343,0.215811
+1018,Left parsopercularis (cortex),Cortex: frontal,tissue,ses-04,47.8556,3.52435,0.0489399,0.172481
+1018,Left parsopercularis (cortex),Cortex: frontal,tissue,ses-05,69.9003,3.52435,0.0251399,0.0886018
+1019,Left parsorbitalis (cortex),Cortex: frontal,tissue,ses-01,0,1.36628,0,0
+1019,Left parsorbitalis (cortex),Cortex: frontal,tissue,ses-02,4.36576,1.36628,0.0186326,0.0254575
+1019,Left parsorbitalis (cortex),Cortex: frontal,tissue,ses-03,23.8892,1.36628,0.066957,0.0914823
+1019,Left parsorbitalis (cortex),Cortex: frontal,tissue,ses-04,47.8556,1.36628,0.0457514,0.0625095
+1019,Left parsorbitalis (cortex),Cortex: frontal,tissue,ses-05,69.9003,1.36628,0.0222499,0.0303997
+1020,Left parstriangularis (cortex),Cortex: frontal,tissue,ses-01,0,2.86028,0,0
+1020,Left parstriangularis (cortex),Cortex: frontal,tissue,ses-02,4.36576,2.86028,0.00553889,0.0158428
+1020,Left parstriangularis (cortex),Cortex: frontal,tissue,ses-03,23.8892,2.86028,0.0607334,0.173714
+1020,Left parstriangularis (cortex),Cortex: frontal,tissue,ses-04,47.8556,2.86028,0.0515026,0.147312
+1020,Left parstriangularis (cortex),Cortex: frontal,tissue,ses-05,69.9003,2.86028,0.026019,0.0744215
+1021,Left pericalcarine (cortex),Cortex: occipital,tissue,ses-01,0,1.81884,0,0
+1021,Left pericalcarine (cortex),Cortex: occipital,tissue,ses-02,4.36576,1.81884,0.055785,0.101464
+1021,Left pericalcarine (cortex),Cortex: occipital,tissue,ses-03,23.8892,1.81884,0.0896576,0.163072
+1021,Left pericalcarine (cortex),Cortex: occipital,tissue,ses-04,47.8556,1.81884,0.0453181,0.0824261
+1021,Left pericalcarine (cortex),Cortex: occipital,tissue,ses-05,69.9003,1.81884,0.022455,0.0408419
+1022,Left postcentral (cortex),Cortex: parietal,tissue,ses-01,0,9.11231,0,0
+1022,Left postcentral (cortex),Cortex: parietal,tissue,ses-02,4.36576,9.11231,0.00458344,0.0417658
+1022,Left postcentral (cortex),Cortex: parietal,tissue,ses-03,23.8892,9.11231,0.0572217,0.521422
+1022,Left postcentral (cortex),Cortex: parietal,tissue,ses-04,47.8556,9.11231,0.0545345,0.496935
+1022,Left postcentral (cortex),Cortex: parietal,tissue,ses-05,69.9003,9.11231,0.0299751,0.273143
+1023,Left posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,2.6305,0,0
+1023,Left posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,2.6305,0.0619635,0.162995
+1023,Left posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,2.6305,0.0980538,0.257931
+1023,Left posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,2.6305,0.0423959,0.111523
+1023,Left posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,2.6305,0.0205589,0.0540803
+1024,Left precentral (cortex),Cortex: frontal,tissue,ses-01,0,11.0716,0,0
+1024,Left precentral (cortex),Cortex: frontal,tissue,ses-02,4.36576,11.0716,0.000102746,0.00113757
+1024,Left precentral (cortex),Cortex: frontal,tissue,ses-03,23.8892,11.0716,0.0488344,0.540676
+1024,Left precentral (cortex),Cortex: frontal,tissue,ses-04,47.8556,11.0716,0.0494019,0.546959
+1024,Left precentral (cortex),Cortex: frontal,tissue,ses-05,69.9003,11.0716,0.0295701,0.327389
+1025,Left precuneus (cortex),Cortex: parietal,tissue,ses-01,0,9.55936,0,0
+1025,Left precuneus (cortex),Cortex: parietal,tissue,ses-02,4.36576,9.55936,0.0310143,0.296477
+1025,Left precuneus (cortex),Cortex: parietal,tissue,ses-03,23.8892,9.55936,0.0874671,0.83613
+1025,Left precuneus (cortex),Cortex: parietal,tissue,ses-04,47.8556,9.55936,0.0430467,0.411499
+1025,Left precuneus (cortex),Cortex: parietal,tissue,ses-05,69.9003,9.55936,0.0223497,0.213649
+1026,Left rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,2.28252,0,0
+1026,Left rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,2.28252,0.0824644,0.188227
+1026,Left rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,2.28252,0.0875386,0.199809
+1026,Left rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,2.28252,0.0358267,0.0817752
+1026,Left rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,2.28252,0.0163888,0.0374078
+1027,Left rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-01,0,8.32254,0,0
+1027,Left rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,8.32254,-0.00330673,-0.0275204
+1027,Left rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,8.32254,0.0458987,0.381994
+1027,Left rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,8.32254,0.0559579,0.465712
+1027,Left rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,8.32254,0.0314334,0.261606
+1028,Left superiorfrontal (cortex),Cortex: frontal,tissue,ses-01,0,19.6618,0,0
+1028,Left superiorfrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,19.6618,0.00926416,0.18215
+1028,Left superiorfrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,19.6618,0.0607792,1.19503
+1028,Left superiorfrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,19.6618,0.0494067,0.971427
+1028,Left superiorfrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,19.6618,0.0290988,0.572137
+1029,Left superiorparietal (cortex),Cortex: parietal,tissue,ses-01,0,10.1833,0,0
+1029,Left superiorparietal (cortex),Cortex: parietal,tissue,ses-02,4.36576,10.1833,0.00123048,0.0125303
+1029,Left superiorparietal (cortex),Cortex: parietal,tissue,ses-03,23.8892,10.1833,0.0333886,0.340006
+1029,Left superiorparietal (cortex),Cortex: parietal,tissue,ses-04,47.8556,10.1833,0.0511193,0.520562
+1029,Left superiorparietal (cortex),Cortex: parietal,tissue,ses-05,69.9003,10.1833,0.0329331,0.335367
+1030,Left superiortemporal (cortex),Cortex: temporal,tissue,ses-01,0,13.3152,0,0
+1030,Left superiortemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,13.3152,0.0227796,0.303315
+1030,Left superiortemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,13.3152,0.0689006,0.917428
+1030,Left superiortemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,13.3152,0.044213,0.588707
+1030,Left superiortemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,13.3152,0.0221973,0.295562
+1031,Left supramarginal (cortex),Cortex: parietal,tissue,ses-01,0,8.25737,0,0
+1031,Left supramarginal (cortex),Cortex: parietal,tissue,ses-02,4.36576,8.25737,0.00682153,0.0563279
+1031,Left supramarginal (cortex),Cortex: parietal,tissue,ses-03,23.8892,8.25737,0.0713786,0.589399
+1031,Left supramarginal (cortex),Cortex: parietal,tissue,ses-04,47.8556,8.25737,0.0524098,0.432767
+1031,Left supramarginal (cortex),Cortex: parietal,tissue,ses-05,69.9003,8.25737,0.0284783,0.235156
+1034,Left transversetemporal (cortex),Cortex: temporal,tissue,ses-01,0,0.747372,0,0
+1034,Left transversetemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,0.747372,0.0737362,0.0551084
+1034,Left transversetemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,0.747372,0.100858,0.0753785
+1034,Left transversetemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,0.747372,0.0476018,0.0355762
+1034,Left transversetemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,0.747372,0.026679,0.0199392
+1035,Left insula (cortex),Cortex: insula,tissue,ses-01,0,4.93941,0,0
+1035,Left insula (cortex),Cortex: insula,tissue,ses-02,4.36576,4.93941,0.0500456,0.247196
+1035,Left insula (cortex),Cortex: insula,tissue,ses-03,23.8892,4.93941,0.0795313,0.392838
+1035,Left insula (cortex),Cortex: insula,tissue,ses-04,47.8556,4.93941,0.0430797,0.212788
+1035,Left insula (cortex),Cortex: insula,tissue,ses-05,69.9003,4.93941,0.0228769,0.112999
+2002,Right caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,1.51638,0,0
+2002,Right caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,1.51638,0.0655833,0.0994495
+2002,Right caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,1.51638,0.089946,0.136393
+2002,Right caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,1.51638,0.0418284,0.063428
+2002,Right caudalanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,1.51638,0.0214473,0.0325224
+2003,Right caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-01,0,5.05274,0,0
+2003,Right caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,5.05274,-0.0054493,-0.0275339
+2003,Right caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,5.05274,0.0119885,0.0605746
+2003,Right caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,5.05274,0.0362149,0.182985
+2003,Right caudalmiddlefrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,5.05274,0.0347088,0.175375
+2005,Right cuneus (cortex),Cortex: occipital,tissue,ses-01,0,4.26334,0,0
+2005,Right cuneus (cortex),Cortex: occipital,tissue,ses-02,4.36576,4.26334,0.0298749,0.127367
+2005,Right cuneus (cortex),Cortex: occipital,tissue,ses-03,23.8892,4.26334,0.0893921,0.381109
+2005,Right cuneus (cortex),Cortex: occipital,tissue,ses-04,47.8556,4.26334,0.0428174,0.182545
+2005,Right cuneus (cortex),Cortex: occipital,tissue,ses-05,69.9003,4.26334,0.0218974,0.0933559
+2006,Right entorhinal (cortex),Cortex: temporal,tissue,ses-01,0,1.4317,0,0
+2006,Right entorhinal (cortex),Cortex: temporal,tissue,ses-02,4.36576,1.4317,0.0737271,0.105555
+2006,Right entorhinal (cortex),Cortex: temporal,tissue,ses-03,23.8892,1.4317,0.0790654,0.113198
+2006,Right entorhinal (cortex),Cortex: temporal,tissue,ses-04,47.8556,1.4317,0.0425423,0.060908
+2006,Right entorhinal (cortex),Cortex: temporal,tissue,ses-05,69.9003,1.4317,0.0261644,0.0374596
+2007,Right fusiform (cortex),Cortex: temporal,tissue,ses-01,0,7.87674,0,0
+2007,Right fusiform (cortex),Cortex: temporal,tissue,ses-02,4.36576,7.87674,0.0150887,0.118849
+2007,Right fusiform (cortex),Cortex: temporal,tissue,ses-03,23.8892,7.87674,0.034588,0.272441
+2007,Right fusiform (cortex),Cortex: temporal,tissue,ses-04,47.8556,7.87674,0.0283461,0.223275
+2007,Right fusiform (cortex),Cortex: temporal,tissue,ses-05,69.9003,7.87674,0.0194367,0.153098
+2008,Right inferiorparietal (cortex),Cortex: parietal,tissue,ses-01,0,12.55,0,0
+2008,Right inferiorparietal (cortex),Cortex: parietal,tissue,ses-02,4.36576,12.55,-0.00238186,-0.0298923
+2008,Right inferiorparietal (cortex),Cortex: parietal,tissue,ses-03,23.8892,12.55,0.0134992,0.169415
+2008,Right inferiorparietal (cortex),Cortex: parietal,tissue,ses-04,47.8556,12.55,0.0326031,0.409168
+2008,Right inferiorparietal (cortex),Cortex: parietal,tissue,ses-05,69.9003,12.55,0.0248107,0.311374
+2009,Right inferiortemporal (cortex),Cortex: temporal,tissue,ses-01,0,8.80874,0,0
+2009,Right inferiortemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,8.80874,0.00152926,0.0134708
+2009,Right inferiortemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,8.80874,0.0234875,0.206895
+2009,Right inferiortemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,8.80874,0.0293544,0.258576
+2009,Right inferiortemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,8.80874,0.0205065,0.180637
+2010,Right isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-01,0,2.23061,0,0
+2010,Right isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,2.23061,0.0745448,0.16628
+2010,Right isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,2.23061,0.0919008,0.204995
+2010,Right isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,2.23061,0.0424005,0.0945789
+2010,Right isthmuscingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,2.23061,0.0246364,0.0549543
+2011,Right lateraloccipital (cortex),Cortex: occipital,tissue,ses-01,0,9.92273,0,0
+2011,Right lateraloccipital (cortex),Cortex: occipital,tissue,ses-02,4.36576,9.92273,-0.00162654,-0.0161397
+2011,Right lateraloccipital (cortex),Cortex: occipital,tissue,ses-03,23.8892,9.92273,0.016515,0.163874
+2011,Right lateraloccipital (cortex),Cortex: occipital,tissue,ses-04,47.8556,9.92273,0.02673,0.265234
+2011,Right lateraloccipital (cortex),Cortex: occipital,tissue,ses-05,69.9003,9.92273,0.0202499,0.200934
+2012,Right lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-01,0,5.56846,0,0
+2012,Right lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,5.56846,0.0451824,0.251596
+2012,Right lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,5.56846,0.0816244,0.454522
+2012,Right lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,5.56846,0.046586,0.259412
+2012,Right lateralorbitofrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,5.56846,0.0262875,0.146381
+2013,Right lingual (cortex),Cortex: occipital,tissue,ses-01,0,6.28231,0,0
+2013,Right lingual (cortex),Cortex: occipital,tissue,ses-02,4.36576,6.28231,0.0323334,0.203128
+2013,Right lingual (cortex),Cortex: occipital,tissue,ses-03,23.8892,6.28231,0.0656668,0.412539
+2013,Right lingual (cortex),Cortex: occipital,tissue,ses-04,47.8556,6.28231,0.0365431,0.229575
+2013,Right lingual (cortex),Cortex: occipital,tissue,ses-05,69.9003,6.28231,0.0182282,0.114515
+2014,Right medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-01,0,3.72961,0,0
+2014,Right medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,3.72961,0.0925703,0.345251
+2014,Right medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,3.72961,0.0968896,0.36136
+2014,Right medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,3.72961,0.0419436,0.156433
+2014,Right medialorbitofrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,3.72961,0.0220953,0.0824066
+2015,Right middletemporal (cortex),Cortex: temporal,tissue,ses-01,0,13.3066,0,0
+2015,Right middletemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,13.3066,0.000562492,0.00748487
+2015,Right middletemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,13.3066,0.033073,0.44009
+2015,Right middletemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,13.3066,0.0388293,0.516686
+2015,Right middletemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,13.3066,0.027215,0.36214
+2016,Right parahippocampal (cortex),Cortex: temporal,tissue,ses-01,0,1.50738,0,0
+2016,Right parahippocampal (cortex),Cortex: temporal,tissue,ses-02,4.36576,1.50738,0.0852829,0.128554
+2016,Right parahippocampal (cortex),Cortex: temporal,tissue,ses-03,23.8892,1.50738,0.0924975,0.139429
+2016,Right parahippocampal (cortex),Cortex: temporal,tissue,ses-04,47.8556,1.50738,0.0445367,0.0671337
+2016,Right parahippocampal (cortex),Cortex: temporal,tissue,ses-05,69.9003,1.50738,0.0238907,0.0360123
+2017,Right paracentral (cortex),Cortex: frontal,tissue,ses-01,0,4.57367,0,0
+2017,Right paracentral (cortex),Cortex: frontal,tissue,ses-02,4.36576,4.57367,0.00602487,0.0275558
+2017,Right paracentral (cortex),Cortex: frontal,tissue,ses-03,23.8892,4.57367,0.0795636,0.363898
+2017,Right paracentral (cortex),Cortex: frontal,tissue,ses-04,47.8556,4.57367,0.0443126,0.202671
+2017,Right paracentral (cortex),Cortex: frontal,tissue,ses-05,69.9003,4.57367,0.0194568,0.0889889
+2018,Right parsopercularis (cortex),Cortex: frontal,tissue,ses-01,0,3.02414,0,0
+2018,Right parsopercularis (cortex),Cortex: frontal,tissue,ses-02,4.36576,3.02414,0.0118602,0.0358668
+2018,Right parsopercularis (cortex),Cortex: frontal,tissue,ses-03,23.8892,3.02414,0.0717386,0.216947
+2018,Right parsopercularis (cortex),Cortex: frontal,tissue,ses-04,47.8556,3.02414,0.0484798,0.14661
+2018,Right parsopercularis (cortex),Cortex: frontal,tissue,ses-05,69.9003,3.02414,0.027321,0.0826224
+2019,Right parsorbitalis (cortex),Cortex: frontal,tissue,ses-01,0,1.48224,0,0
+2019,Right parsorbitalis (cortex),Cortex: frontal,tissue,ses-02,4.36576,1.48224,0.0105717,0.0156698
+2019,Right parsorbitalis (cortex),Cortex: frontal,tissue,ses-03,23.8892,1.48224,0.0717718,0.106383
+2019,Right parsorbitalis (cortex),Cortex: frontal,tissue,ses-04,47.8556,1.48224,0.0453099,0.06716
+2019,Right parsorbitalis (cortex),Cortex: frontal,tissue,ses-05,69.9003,1.48224,0.0250459,0.0371239
+2020,Right parstriangularis (cortex),Cortex: frontal,tissue,ses-01,0,2.49766,0,0
+2020,Right parstriangularis (cortex),Cortex: frontal,tissue,ses-02,4.36576,2.49766,0.00298303,0.0074506
+2020,Right parstriangularis (cortex),Cortex: frontal,tissue,ses-03,23.8892,2.49766,0.0653988,0.163344
+2020,Right parstriangularis (cortex),Cortex: frontal,tissue,ses-04,47.8556,2.49766,0.0505139,0.126167
+2020,Right parstriangularis (cortex),Cortex: frontal,tissue,ses-05,69.9003,2.49766,0.0295893,0.0739042
+2021,Right pericalcarine (cortex),Cortex: occipital,tissue,ses-01,0,2.00146,0,0
+2021,Right pericalcarine (cortex),Cortex: occipital,tissue,ses-02,4.36576,2.00146,0.0330767,0.0662016
+2021,Right pericalcarine (cortex),Cortex: occipital,tissue,ses-03,23.8892,2.00146,0.0828782,0.165877
+2021,Right pericalcarine (cortex),Cortex: occipital,tissue,ses-04,47.8556,2.00146,0.0410801,0.08222
+2021,Right pericalcarine (cortex),Cortex: occipital,tissue,ses-05,69.9003,2.00146,0.0177452,0.0355162
+2022,Right postcentral (cortex),Cortex: parietal,tissue,ses-01,0,8.53556,0,0
+2022,Right postcentral (cortex),Cortex: parietal,tissue,ses-02,4.36576,8.53556,0.00300626,0.0256601
+2022,Right postcentral (cortex),Cortex: parietal,tissue,ses-03,23.8892,8.53556,0.0598131,0.510538
+2022,Right postcentral (cortex),Cortex: parietal,tissue,ses-04,47.8556,8.53556,0.0598994,0.511275
+2022,Right postcentral (cortex),Cortex: parietal,tissue,ses-05,69.9003,8.53556,0.0331865,0.283265
+2023,Right posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,3.01438,0,0
+2023,Right posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,3.01438,0.0385163,0.116103
+2023,Right posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,3.01438,0.0868314,0.261743
+2023,Right posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,3.01438,0.041148,0.124036
+2023,Right posteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,3.01438,0.0212694,0.0641142
+2024,Right precentral (cortex),Cortex: frontal,tissue,ses-01,0,10.4822,0,0
+2024,Right precentral (cortex),Cortex: frontal,tissue,ses-02,4.36576,10.4822,0.000227034,0.00237982
+2024,Right precentral (cortex),Cortex: frontal,tissue,ses-03,23.8892,10.4822,0.0495686,0.519589
+2024,Right precentral (cortex),Cortex: frontal,tissue,ses-04,47.8556,10.4822,0.0517427,0.542379
+2024,Right precentral (cortex),Cortex: frontal,tissue,ses-05,69.9003,10.4822,0.0313265,0.328371
+2025,Right precuneus (cortex),Cortex: parietal,tissue,ses-01,0,9.70821,0,0
+2025,Right precuneus (cortex),Cortex: parietal,tissue,ses-02,4.36576,9.70821,0.0275385,0.26735
+2025,Right precuneus (cortex),Cortex: parietal,tissue,ses-03,23.8892,9.70821,0.0850164,0.825357
+2025,Right precuneus (cortex),Cortex: parietal,tissue,ses-04,47.8556,9.70821,0.0429653,0.417117
+2025,Right precuneus (cortex),Cortex: parietal,tissue,ses-05,69.9003,9.70821,0.0212228,0.206035
+2026,Right rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-01,0,2.25925,0,0
+2026,Right rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-02,4.36576,2.25925,0.0739046,0.166969
+2026,Right rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-03,23.8892,2.25925,0.0849853,0.192003
+2026,Right rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-04,47.8556,2.25925,0.0429874,0.0971195
+2026,Right rostralanteriorcingulate (cortex),Cortex: cingulate,tissue,ses-05,69.9003,2.25925,0.0237219,0.0535937
+2027,Right rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-01,0,10.2676,0,0
+2027,Right rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,10.2676,-0.00399579,-0.0410271
+2027,Right rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,10.2676,0.0253624,0.260411
+2027,Right rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,10.2676,0.0445827,0.457757
+2027,Right rostralmiddlefrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,10.2676,0.0354231,0.363709
+2028,Right superiorfrontal (cortex),Cortex: frontal,tissue,ses-01,0,22.5244,0,0
+2028,Right superiorfrontal (cortex),Cortex: frontal,tissue,ses-02,4.36576,22.5244,0.00722667,0.162776
+2028,Right superiorfrontal (cortex),Cortex: frontal,tissue,ses-03,23.8892,22.5244,0.0518914,1.16882
+2028,Right superiorfrontal (cortex),Cortex: frontal,tissue,ses-04,47.8556,22.5244,0.0415231,0.935283
+2028,Right superiorfrontal (cortex),Cortex: frontal,tissue,ses-05,69.9003,22.5244,0.0277763,0.625643
+2029,Right superiorparietal (cortex),Cortex: parietal,tissue,ses-01,0,9.55986,0,0
+2029,Right superiorparietal (cortex),Cortex: parietal,tissue,ses-02,4.36576,9.55986,-0.000329988,-0.00315464
+2029,Right superiorparietal (cortex),Cortex: parietal,tissue,ses-03,23.8892,9.55986,0.0197764,0.18906
+2029,Right superiorparietal (cortex),Cortex: parietal,tissue,ses-04,47.8556,9.55986,0.0375133,0.358622
+2029,Right superiorparietal (cortex),Cortex: parietal,tissue,ses-05,69.9003,9.55986,0.0289802,0.277047
+2030,Right superiortemporal (cortex),Cortex: temporal,tissue,ses-01,0,13.0412,0,0
+2030,Right superiortemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,13.0412,0.0209423,0.273112
+2030,Right superiortemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,13.0412,0.0713688,0.930734
+2030,Right superiortemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,13.0412,0.0470049,0.612999
+2030,Right superiortemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,13.0412,0.0264599,0.345068
+2031,Right supramarginal (cortex),Cortex: parietal,tissue,ses-01,0,8.33542,0,0
+2031,Right supramarginal (cortex),Cortex: parietal,tissue,ses-02,4.36576,8.33542,0.00427991,0.0356749
+2031,Right supramarginal (cortex),Cortex: parietal,tissue,ses-03,23.8892,8.33542,0.0654488,0.545543
+2031,Right supramarginal (cortex),Cortex: parietal,tissue,ses-04,47.8556,8.33542,0.0537886,0.448351
+2031,Right supramarginal (cortex),Cortex: parietal,tissue,ses-05,69.9003,8.33542,0.0300035,0.250092
+2034,Right transversetemporal (cortex),Cortex: temporal,tissue,ses-01,0,0.673323,0,0
+2034,Right transversetemporal (cortex),Cortex: temporal,tissue,ses-02,4.36576,0.673323,0.0467694,0.0314909
+2034,Right transversetemporal (cortex),Cortex: temporal,tissue,ses-03,23.8892,0.673323,0.0957767,0.0644887
+2034,Right transversetemporal (cortex),Cortex: temporal,tissue,ses-04,47.8556,0.673323,0.0553604,0.0372755
+2034,Right transversetemporal (cortex),Cortex: temporal,tissue,ses-05,69.9003,0.673323,0.0352889,0.0237609
+2035,Right insula (cortex),Cortex: insula,tissue,ses-01,0,5.09264,0,0
+2035,Right insula (cortex),Cortex: insula,tissue,ses-02,4.36576,5.09264,0.0386606,0.196885
+2035,Right insula (cortex),Cortex: insula,tissue,ses-03,23.8892,5.09264,0.0813787,0.414432
+2035,Right insula (cortex),Cortex: insula,tissue,ses-04,47.8556,5.09264,0.0438989,0.223561
+2035,Right insula (cortex),Cortex: insula,tissue,ses-05,69.9003,5.09264,0.0210279,0.107087
+9999,"Other intracranial (dura, vessels, unlabelled)",Other intracranial,other,ses-01,0,94.2811,0,0
+9999,"Other intracranial (dura, vessels, unlabelled)",Other intracranial,other,ses-02,4.36576,94.2811,0.0551138,5.19619
+9999,"Other intracranial (dura, vessels, unlabelled)",Other intracranial,other,ses-03,23.8892,94.2811,0.0889668,8.38789
+9999,"Other intracranial (dura, vessels, unlabelled)",Other intracranial,other,ses-04,47.8556,94.2811,0.056774,5.35272
+9999,"Other intracranial (dura, vessels, unlabelled)",Other intracranial,other,ses-05,69.9003,94.2811,0.0287868,2.71405
+10002,CSF next to Left cerebral white matter,CSF: deep / basal,CSF,ses-01,0,0.818044,0,0
+10002,CSF next to Left cerebral white matter,CSF: deep / basal,CSF,ses-02,4.36576,0.818044,0.166286,0.136029
+10002,CSF next to Left cerebral white matter,CSF: deep / basal,CSF,ses-03,23.8892,0.818044,0.132284,0.108214
+10002,CSF next to Left cerebral white matter,CSF: deep / basal,CSF,ses-04,47.8556,0.818044,0.0553433,0.0452733
+10002,CSF next to Left cerebral white matter,CSF: deep / basal,CSF,ses-05,69.9003,0.818044,0.0240158,0.019646
+10004,CSF next to Left lateral ventricle,CSF: ventricles,CSF,ses-01,0,19.4073,0,0
+10004,CSF next to Left lateral ventricle,CSF: ventricles,CSF,ses-02,4.36576,19.4073,0.135475,2.6292
+10004,CSF next to Left lateral ventricle,CSF: ventricles,CSF,ses-03,23.8892,19.4073,0.10798,2.0956
+10004,CSF next to Left lateral ventricle,CSF: ventricles,CSF,ses-04,47.8556,19.4073,0.0374472,0.726748
+10004,CSF next to Left lateral ventricle,CSF: ventricles,CSF,ses-05,69.9003,19.4073,0.0140893,0.273435
+10005,CSF next to Left inferior lateral ventricle,CSF: ventricles,CSF,ses-01,0,0.436916,0,0
+10005,CSF next to Left inferior lateral ventricle,CSF: ventricles,CSF,ses-02,4.36576,0.436916,0.0385036,0.0168228
+10005,CSF next to Left inferior lateral ventricle,CSF: ventricles,CSF,ses-03,23.8892,0.436916,0.036286,0.0158539
+10005,CSF next to Left inferior lateral ventricle,CSF: ventricles,CSF,ses-04,47.8556,0.436916,0.0156348,0.00683107
+10005,CSF next to Left inferior lateral ventricle,CSF: ventricles,CSF,ses-05,69.9003,0.436916,0.00752322,0.00328701
+10007,CSF next to Left cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-01,0,0.582763,0,0
+10007,CSF next to Left cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-02,4.36576,0.582763,0.76951,0.448442
+10007,CSF next to Left cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-03,23.8892,0.582763,0.241226,0.140578
+10007,CSF next to Left cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-04,47.8556,0.582763,0.0795085,0.0463346
+10007,CSF next to Left cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-05,69.9003,0.582763,0.0265577,0.0154768
+10008,CSF next to Left cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-01,0,17.887,0,0
+10008,CSF next to Left cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-02,4.36576,17.887,0.424162,7.58699
+10008,CSF next to Left cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-03,23.8892,17.887,0.195908,3.50422
+10008,CSF next to Left cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-04,47.8556,17.887,0.0806376,1.44237
+10008,CSF next to Left cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-05,69.9003,17.887,0.0314451,0.562459
+10010,CSF next to Left thalamus,CSF: deep / basal,CSF,ses-01,0,0.335348,0,0
+10010,CSF next to Left thalamus,CSF: deep / basal,CSF,ses-02,4.36576,0.335348,0.303312,0.101715
+10010,CSF next to Left thalamus,CSF: deep / basal,CSF,ses-03,23.8892,0.335348,0.184022,0.0617116
+10010,CSF next to Left thalamus,CSF: deep / basal,CSF,ses-04,47.8556,0.335348,0.0614475,0.0206063
+10010,CSF next to Left thalamus,CSF: deep / basal,CSF,ses-05,69.9003,0.335348,0.0217973,0.00730969
+10011,CSF next to Left caudate,CSF: deep / basal,CSF,ses-01,0,0.0487825,0,0
+10011,CSF next to Left caudate,CSF: deep / basal,CSF,ses-02,4.36576,0.0487825,0.079994,0.0039023
+10011,CSF next to Left caudate,CSF: deep / basal,CSF,ses-03,23.8892,0.0487825,0.0744659,0.00363263
+10011,CSF next to Left caudate,CSF: deep / basal,CSF,ses-04,47.8556,0.0487825,0.0275838,0.00134561
+10011,CSF next to Left caudate,CSF: deep / basal,CSF,ses-05,69.9003,0.0487825,-0.00384712,-0.000187672
+10014,CSF next to 3rd ventricle,CSF: ventricles,CSF,ses-01,0,2.29703,0,0
+10014,CSF next to 3rd ventricle,CSF: ventricles,CSF,ses-02,4.36576,2.29703,0.22351,0.513409
+10014,CSF next to 3rd ventricle,CSF: ventricles,CSF,ses-03,23.8892,2.29703,0.130281,0.299258
+10014,CSF next to 3rd ventricle,CSF: ventricles,CSF,ses-04,47.8556,2.29703,0.0443993,0.101987
+10014,CSF next to 3rd ventricle,CSF: ventricles,CSF,ses-05,69.9003,2.29703,0.016648,0.038241
+10015,CSF next to 4th ventricle,CSF: ventricles,CSF,ses-01,0,1.57755,0,0
+10015,CSF next to 4th ventricle,CSF: ventricles,CSF,ses-02,4.36576,1.57755,0.292975,0.462183
+10015,CSF next to 4th ventricle,CSF: ventricles,CSF,ses-03,23.8892,1.57755,0.135667,0.214021
+10015,CSF next to 4th ventricle,CSF: ventricles,CSF,ses-04,47.8556,1.57755,0.0443173,0.0699127
+10015,CSF next to 4th ventricle,CSF: ventricles,CSF,ses-05,69.9003,1.57755,0.0176266,0.0278068
+10016,CSF next to Brainstem,CSF: around cerebellum & brainstem,CSF,ses-01,0,20.0615,0,0
+10016,CSF next to Brainstem,CSF: around cerebellum & brainstem,CSF,ses-02,4.36576,20.0615,0.751675,15.0797
+10016,CSF next to Brainstem,CSF: around cerebellum & brainstem,CSF,ses-03,23.8892,20.0615,0.260175,5.2195
+10016,CSF next to Brainstem,CSF: around cerebellum & brainstem,CSF,ses-04,47.8556,20.0615,0.0805473,1.6159
+10016,CSF next to Brainstem,CSF: around cerebellum & brainstem,CSF,ses-05,69.9003,20.0615,0.0273933,0.54955
+10017,CSF next to Left hippocampus,CSF: deep / basal,CSF,ses-01,0,0.963766,0,0
+10017,CSF next to Left hippocampus,CSF: deep / basal,CSF,ses-02,4.36576,0.963766,0.370109,0.356699
+10017,CSF next to Left hippocampus,CSF: deep / basal,CSF,ses-03,23.8892,0.963766,0.183566,0.176915
+10017,CSF next to Left hippocampus,CSF: deep / basal,CSF,ses-04,47.8556,0.963766,0.065508,0.0631344
+10017,CSF next to Left hippocampus,CSF: deep / basal,CSF,ses-05,69.9003,0.963766,0.0255967,0.0246692
+10018,CSF next to Left amygdala,CSF: deep / basal,CSF,ses-01,0,0.174866,0,0
+10018,CSF next to Left amygdala,CSF: deep / basal,CSF,ses-02,4.36576,0.174866,0.479642,0.0838733
+10018,CSF next to Left amygdala,CSF: deep / basal,CSF,ses-03,23.8892,0.174866,0.195036,0.0341053
+10018,CSF next to Left amygdala,CSF: deep / basal,CSF,ses-04,47.8556,0.174866,0.0674914,0.011802
+10018,CSF next to Left amygdala,CSF: deep / basal,CSF,ses-05,69.9003,0.174866,0.0201624,0.00352573
+10024,CSF next to CSF (FreeSurfer),CSF: ventricles,CSF,ses-01,0,1.53815,0,0
+10024,CSF next to CSF (FreeSurfer),CSF: ventricles,CSF,ses-02,4.36576,1.53815,0.241828,0.371967
+10024,CSF next to CSF (FreeSurfer),CSF: ventricles,CSF,ses-03,23.8892,1.53815,0.18858,0.290064
+10024,CSF next to CSF (FreeSurfer),CSF: ventricles,CSF,ses-04,47.8556,1.53815,0.0647621,0.0996138
+10024,CSF next to CSF (FreeSurfer),CSF: ventricles,CSF,ses-05,69.9003,1.53815,0.0257691,0.0396367
+10026,CSF next to Left accumbens,CSF: deep / basal,CSF,ses-01,0,0.000875583,0,0
+10026,CSF next to Left accumbens,CSF: deep / basal,CSF,ses-02,4.36576,0.000875583,0.0423137,3.70492e-05
+10026,CSF next to Left accumbens,CSF: deep / basal,CSF,ses-03,23.8892,0.000875583,0.0550979,4.82428e-05
+10026,CSF next to Left accumbens,CSF: deep / basal,CSF,ses-04,47.8556,0.000875583,0.0448186,3.92424e-05
+10026,CSF next to Left accumbens,CSF: deep / basal,CSF,ses-05,69.9003,0.000875583,0.019429,1.70117e-05
+10028,CSF next to Left ventral DC,CSF: deep / basal,CSF,ses-01,0,1.44096,0,0
+10028,CSF next to Left ventral DC,CSF: deep / basal,CSF,ses-02,4.36576,1.44096,0.577579,0.832267
+10028,CSF next to Left ventral DC,CSF: deep / basal,CSF,ses-03,23.8892,1.44096,0.224443,0.323413
+10028,CSF next to Left ventral DC,CSF: deep / basal,CSF,ses-04,47.8556,1.44096,0.0742993,0.107062
+10028,CSF next to Left ventral DC,CSF: deep / basal,CSF,ses-05,69.9003,1.44096,0.0255594,0.0368301
+10031,CSF next to Left choroid plexus,CSF: ventricles,CSF,ses-01,0,0.299825,0,0
+10031,CSF next to Left choroid plexus,CSF: ventricles,CSF,ses-02,4.36576,0.299825,0.120753,0.0362048
+10031,CSF next to Left choroid plexus,CSF: ventricles,CSF,ses-03,23.8892,0.299825,0.086032,0.0257945
+10031,CSF next to Left choroid plexus,CSF: ventricles,CSF,ses-04,47.8556,0.299825,0.0262756,0.00787806
+10031,CSF next to Left choroid plexus,CSF: ventricles,CSF,ses-05,69.9003,0.299825,0.0103459,0.00310194
+10041,CSF next to Right cerebral white matter,CSF: deep / basal,CSF,ses-01,0,0.668945,0,0
+10041,CSF next to Right cerebral white matter,CSF: deep / basal,CSF,ses-02,4.36576,0.668945,0.151174,0.101127
+10041,CSF next to Right cerebral white matter,CSF: deep / basal,CSF,ses-03,23.8892,0.668945,0.113903,0.0761946
+10041,CSF next to Right cerebral white matter,CSF: deep / basal,CSF,ses-04,47.8556,0.668945,0.0409605,0.0274003
+10041,CSF next to Right cerebral white matter,CSF: deep / basal,CSF,ses-05,69.9003,0.668945,0.014909,0.00997329
+10043,CSF next to Right lateral ventricle,CSF: ventricles,CSF,ses-01,0,20.0136,0,0
+10043,CSF next to Right lateral ventricle,CSF: ventricles,CSF,ses-02,4.36576,20.0136,0.0918869,1.83899
+10043,CSF next to Right lateral ventricle,CSF: ventricles,CSF,ses-03,23.8892,20.0136,0.0960284,1.92187
+10043,CSF next to Right lateral ventricle,CSF: ventricles,CSF,ses-04,47.8556,20.0136,0.0340751,0.681965
+10043,CSF next to Right lateral ventricle,CSF: ventricles,CSF,ses-05,69.9003,20.0136,0.0134491,0.269164
+10044,CSF next to Right inferior lateral ventricle,CSF: ventricles,CSF,ses-01,0,0.352485,0,0
+10044,CSF next to Right inferior lateral ventricle,CSF: ventricles,CSF,ses-02,4.36576,0.352485,0.0268905,0.00947849
+10044,CSF next to Right inferior lateral ventricle,CSF: ventricles,CSF,ses-03,23.8892,0.352485,0.030946,0.010908
+10044,CSF next to Right inferior lateral ventricle,CSF: ventricles,CSF,ses-04,47.8556,0.352485,0.0136954,0.00482742
+10044,CSF next to Right inferior lateral ventricle,CSF: ventricles,CSF,ses-05,69.9003,0.352485,0.00545796,0.00192385
+10046,CSF next to Right cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-01,0,0.845938,0,0
+10046,CSF next to Right cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-02,4.36576,0.845938,0.731655,0.618935
+10046,CSF next to Right cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-03,23.8892,0.845938,0.240776,0.203681
+10046,CSF next to Right cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-04,47.8556,0.845938,0.0755011,0.0638693
+10046,CSF next to Right cerebellum white matter,CSF: around cerebellum & brainstem,CSF,ses-05,69.9003,0.845938,0.0250632,0.0212019
+10047,CSF next to Right cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-01,0,18.3325,0,0
+10047,CSF next to Right cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-02,4.36576,18.3325,0.389561,7.14161
+10047,CSF next to Right cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-03,23.8892,18.3325,0.197706,3.62444
+10047,CSF next to Right cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-04,47.8556,18.3325,0.0781448,1.43259
+10047,CSF next to Right cerebellum cortex,CSF: around cerebellum & brainstem,CSF,ses-05,69.9003,18.3325,0.0293657,0.538345
+10049,CSF next to Right thalamus,CSF: deep / basal,CSF,ses-01,0,0.359489,0,0
+10049,CSF next to Right thalamus,CSF: deep / basal,CSF,ses-02,4.36576,0.359489,0.340109,0.122266
+10049,CSF next to Right thalamus,CSF: deep / basal,CSF,ses-03,23.8892,0.359489,0.182432,0.0655824
+10049,CSF next to Right thalamus,CSF: deep / basal,CSF,ses-04,47.8556,0.359489,0.0629619,0.0226341
+10049,CSF next to Right thalamus,CSF: deep / basal,CSF,ses-05,69.9003,0.359489,0.020848,0.00749464
+10050,CSF next to Right caudate,CSF: deep / basal,CSF,ses-01,0,0.0805536,0,0
+10050,CSF next to Right caudate,CSF: deep / basal,CSF,ses-02,4.36576,0.0805536,0.0269031,0.00216714
+10050,CSF next to Right caudate,CSF: deep / basal,CSF,ses-03,23.8892,0.0805536,0.0449388,0.00361998
+10050,CSF next to Right caudate,CSF: deep / basal,CSF,ses-04,47.8556,0.0805536,0.0134221,0.0010812
+10050,CSF next to Right caudate,CSF: deep / basal,CSF,ses-05,69.9003,0.0805536,-0.000234004,-1.88499e-05
+10053,CSF next to Right hippocampus,CSF: deep / basal,CSF,ses-01,0,0.876834,0,0
+10053,CSF next to Right hippocampus,CSF: deep / basal,CSF,ses-02,4.36576,0.876834,0.358708,0.314527
+10053,CSF next to Right hippocampus,CSF: deep / basal,CSF,ses-03,23.8892,0.876834,0.170856,0.149813
+10053,CSF next to Right hippocampus,CSF: deep / basal,CSF,ses-04,47.8556,0.876834,0.0616922,0.0540938
+10053,CSF next to Right hippocampus,CSF: deep / basal,CSF,ses-05,69.9003,0.876834,0.0244978,0.0214805
+10054,CSF next to Right amygdala,CSF: deep / basal,CSF,ses-01,0,0.167987,0,0
+10054,CSF next to Right amygdala,CSF: deep / basal,CSF,ses-02,4.36576,0.167987,0.468577,0.0787148
+10054,CSF next to Right amygdala,CSF: deep / basal,CSF,ses-03,23.8892,0.167987,0.195523,0.0328452
+10054,CSF next to Right amygdala,CSF: deep / basal,CSF,ses-04,47.8556,0.167987,0.0667311,0.0112099
+10054,CSF next to Right amygdala,CSF: deep / basal,CSF,ses-05,69.9003,0.167987,0.0248657,0.00417711
+10058,CSF next to Right accumbens,CSF: deep / basal,CSF,ses-01,0,0.00437791,0,0
+10058,CSF next to Right accumbens,CSF: deep / basal,CSF,ses-02,4.36576,0.00437791,0.0515103,0.000225507
+10058,CSF next to Right accumbens,CSF: deep / basal,CSF,ses-03,23.8892,0.00437791,0.0584407,0.000255848
+10058,CSF next to Right accumbens,CSF: deep / basal,CSF,ses-04,47.8556,0.00437791,0.0383914,0.000168074
+10058,CSF next to Right accumbens,CSF: deep / basal,CSF,ses-05,69.9003,0.00437791,0.0108108,4.73287e-05
+10060,CSF next to Right ventral DC,CSF: deep / basal,CSF,ses-01,0,1.40819,0,0
+10060,CSF next to Right ventral DC,CSF: deep / basal,CSF,ses-02,4.36576,1.40819,0.623604,0.878152
+10060,CSF next to Right ventral DC,CSF: deep / basal,CSF,ses-03,23.8892,1.40819,0.235938,0.332244
+10060,CSF next to Right ventral DC,CSF: deep / basal,CSF,ses-04,47.8556,1.40819,0.0810607,0.114149
+10060,CSF next to Right ventral DC,CSF: deep / basal,CSF,ses-05,69.9003,1.40819,0.0286983,0.0404126
+10063,CSF next to Right choroid plexus,CSF: ventricles,CSF,ses-01,0,0.362116,0,0
+10063,CSF next to Right choroid plexus,CSF: ventricles,CSF,ses-02,4.36576,0.362116,0.106812,0.0386783
+10063,CSF next to Right choroid plexus,CSF: ventricles,CSF,ses-03,23.8892,0.362116,0.0749363,0.0271356
+10063,CSF next to Right choroid plexus,CSF: ventricles,CSF,ses-04,47.8556,0.362116,0.0219346,0.00794286
+10063,CSF next to Right choroid plexus,CSF: ventricles,CSF,ses-05,69.9003,0.362116,0.00765982,0.00277374
+10077,CSF next to White matter hypointensities,CSF: deep / basal,CSF,ses-01,0,0.430411,0,0
+10077,CSF next to White matter hypointensities,CSF: deep / basal,CSF,ses-02,4.36576,0.430411,0.0468412,0.020161
+10077,CSF next to White matter hypointensities,CSF: deep / basal,CSF,ses-03,23.8892,0.430411,0.0508816,0.0219
+10077,CSF next to White matter hypointensities,CSF: deep / basal,CSF,ses-04,47.8556,0.430411,0.00496907,0.00213874
+10077,CSF next to White matter hypointensities,CSF: deep / basal,CSF,ses-05,69.9003,0.430411,-0.013529,-0.00582304
+10251,CSF next to Corpus callosum (posterior),CSF: deep / basal,CSF,ses-01,0,0.116703,0,0
+10251,CSF next to Corpus callosum (posterior),CSF: deep / basal,CSF,ses-02,4.36576,0.116703,0.184752,0.0215611
+10251,CSF next to Corpus callosum (posterior),CSF: deep / basal,CSF,ses-03,23.8892,0.116703,0.158773,0.0185292
+10251,CSF next to Corpus callosum (posterior),CSF: deep / basal,CSF,ses-04,47.8556,0.116703,0.0594099,0.00693329
+10251,CSF next to Corpus callosum (posterior),CSF: deep / basal,CSF,ses-05,69.9003,0.116703,0.0222494,0.00259656
+10252,CSF next to Corpus callosum (mid-posterior),CSF: deep / basal,CSF,ses-01,0,0.0464059,0,0
+10252,CSF next to Corpus callosum (mid-posterior),CSF: deep / basal,CSF,ses-02,4.36576,0.0464059,0.227266,0.0105465
+10252,CSF next to Corpus callosum (mid-posterior),CSF: deep / basal,CSF,ses-03,23.8892,0.0464059,0.173686,0.00806003
+10252,CSF next to Corpus callosum (mid-posterior),CSF: deep / basal,CSF,ses-04,47.8556,0.0464059,0.0671686,0.00311702
+10252,CSF next to Corpus callosum (mid-posterior),CSF: deep / basal,CSF,ses-05,69.9003,0.0464059,0.0261619,0.00121407
+10253,CSF next to Corpus callosum (central),CSF: deep / basal,CSF,ses-01,0,0.046531,0,0
+10253,CSF next to Corpus callosum (central),CSF: deep / basal,CSF,ses-02,4.36576,0.046531,0.256144,0.0119186
+10253,CSF next to Corpus callosum (central),CSF: deep / basal,CSF,ses-03,23.8892,0.046531,0.182861,0.0085087
+10253,CSF next to Corpus callosum (central),CSF: deep / basal,CSF,ses-04,47.8556,0.046531,0.0702543,0.003269
+10253,CSF next to Corpus callosum (central),CSF: deep / basal,CSF,ses-05,69.9003,0.046531,0.0257245,0.00119699
+10254,CSF next to Corpus callosum (mid-anterior),CSF: deep / basal,CSF,ses-01,0,0.0634172,0,0
+10254,CSF next to Corpus callosum (mid-anterior),CSF: deep / basal,CSF,ses-02,4.36576,0.0634172,0.349176,0.0221438
+10254,CSF next to Corpus callosum (mid-anterior),CSF: deep / basal,CSF,ses-03,23.8892,0.0634172,0.220228,0.0139662
+10254,CSF next to Corpus callosum (mid-anterior),CSF: deep / basal,CSF,ses-04,47.8556,0.0634172,0.067802,0.00429982
+10254,CSF next to Corpus callosum (mid-anterior),CSF: deep / basal,CSF,ses-05,69.9003,0.0634172,0.0220162,0.0013962
+10255,CSF next to Corpus callosum (anterior),CSF: deep / basal,CSF,ses-01,0,0.0940626,0,0
+10255,CSF next to Corpus callosum (anterior),CSF: deep / basal,CSF,ses-02,4.36576,0.0940626,0.353957,0.0332941
+10255,CSF next to Corpus callosum (anterior),CSF: deep / basal,CSF,ses-03,23.8892,0.0940626,0.192107,0.0180701
+10255,CSF next to Corpus callosum (anterior),CSF: deep / basal,CSF,ses-04,47.8556,0.0940626,0.0662996,0.00623632
+10255,CSF next to Corpus callosum (anterior),CSF: deep / basal,CSF,ses-05,69.9003,0.0940626,0.0259132,0.00243746
+11002,CSF next to Left caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.66061,0,0
+11002,CSF next to Left caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.66061,0.24715,0.410418
+11002,CSF next to Left caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.66061,0.217637,0.36141
+11002,CSF next to Left caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.66061,0.0841572,0.139752
+11002,CSF next to Left caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.66061,0.0299755,0.0497774
+11003,CSF next to Left caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,6.21476,0,0
+11003,CSF next to Left caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,6.21476,-0.00159932,-0.0099394
+11003,CSF next to Left caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,6.21476,0.0732848,0.455447
+11003,CSF next to Left caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,6.21476,0.144214,0.896256
+11003,CSF next to Left caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,6.21476,0.110082,0.684132
+11005,CSF next to Left cuneus (cortex),CSF: next to occipital cortex,CSF,ses-01,0,2.28102,0,0
+11005,CSF next to Left cuneus (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,2.28102,0.111579,0.254513
+11005,CSF next to Left cuneus (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,2.28102,0.194934,0.444647
+11005,CSF next to Left cuneus (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,2.28102,0.0844438,0.192618
+11005,CSF next to Left cuneus (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,2.28102,0.0315534,0.071974
+11006,CSF next to Left entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,1.19292,0,0
+11006,CSF next to Left entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,1.19292,0.436291,0.52046
+11006,CSF next to Left entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,1.19292,0.200988,0.239762
+11006,CSF next to Left entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,1.19292,0.0649783,0.0775139
+11006,CSF next to Left entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,1.19292,0.0218395,0.0260528
+11007,CSF next to Left fusiform (cortex),CSF: next to temporal cortex,CSF,ses-01,0,2.2894,0,0
+11007,CSF next to Left fusiform (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,2.2894,0.0905401,0.207282
+11007,CSF next to Left fusiform (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,2.2894,0.125619,0.287591
+11007,CSF next to Left fusiform (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,2.2894,0.0710373,0.162633
+11007,CSF next to Left fusiform (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,2.2894,0.0342035,0.0783054
+11008,CSF next to Left inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,7.05132,0,0
+11008,CSF next to Left inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,7.05132,-0.00278745,-0.0196552
+11008,CSF next to Left inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,7.05132,0.0992124,0.699578
+11008,CSF next to Left inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,7.05132,0.116148,0.818999
+11008,CSF next to Left inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,7.05132,0.0747204,0.526877
+11009,CSF next to Left inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,1.96668,0,0
+11009,CSF next to Left inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,1.96668,0.0203982,0.0401169
+11009,CSF next to Left inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,1.96668,0.0942945,0.185448
+11009,CSF next to Left inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,1.96668,0.0729005,0.143372
+11009,CSF next to Left inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,1.96668,0.0397824,0.0782395
+11010,CSF next to Left isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.3479,0,0
+11010,CSF next to Left isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.3479,0.246114,0.331736
+11010,CSF next to Left isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.3479,0.189352,0.255228
+11010,CSF next to Left isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.3479,0.0708499,0.0954984
+11010,CSF next to Left isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.3479,0.0266307,0.0358954
+11011,CSF next to Left lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-01,0,4.53927,0,0
+11011,CSF next to Left lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,4.53927,0.0050373,0.0228657
+11011,CSF next to Left lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,4.53927,0.0939587,0.426504
+11011,CSF next to Left lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,4.53927,0.0894354,0.405972
+11011,CSF next to Left lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,4.53927,0.0503826,0.2287
+11012,CSF next to Left lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,3.06479,0,0
+11012,CSF next to Left lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,3.06479,0.245307,0.751813
+11012,CSF next to Left lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,3.06479,0.199204,0.61052
+11012,CSF next to Left lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,3.06479,0.0829013,0.254075
+11012,CSF next to Left lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,3.06479,0.0313282,0.0960142
+11013,CSF next to Left lingual (cortex),CSF: next to occipital cortex,CSF,ses-01,0,3.11745,0,0
+11013,CSF next to Left lingual (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,3.11745,0.150374,0.468784
+11013,CSF next to Left lingual (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,3.11745,0.161406,0.503174
+11013,CSF next to Left lingual (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,3.11745,0.0724567,0.22588
+11013,CSF next to Left lingual (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,3.11745,0.0306368,0.0955087
+11014,CSF next to Left medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,3.14947,0,0
+11014,CSF next to Left medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,3.14947,0.398156,1.25398
+11014,CSF next to Left medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,3.14947,0.211027,0.664622
+11014,CSF next to Left medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,3.14947,0.0731245,0.230303
+11014,CSF next to Left medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,3.14947,0.0265914,0.0837488
+11015,CSF next to Left middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,4.98819,0,0
+11015,CSF next to Left middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,4.98819,0.00766008,0.03821
+11015,CSF next to Left middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,4.98819,0.123317,0.615131
+11015,CSF next to Left middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,4.98819,0.101016,0.503887
+11015,CSF next to Left middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,4.98819,0.0569899,0.284277
+11016,CSF next to Left parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,0.94588,0,0
+11016,CSF next to Left parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,0.94588,0.437659,0.413972
+11016,CSF next to Left parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,0.94588,0.202324,0.191375
+11016,CSF next to Left parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,0.94588,0.071561,0.0676881
+11016,CSF next to Left parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,0.94588,0.0275905,0.0260973
+11017,CSF next to Left paracentral (cortex),CSF: next to frontal cortex,CSF,ses-01,0,3.4618,0,0
+11017,CSF next to Left paracentral (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,3.4618,0.119681,0.414311
+11017,CSF next to Left paracentral (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,3.4618,0.263124,0.910885
+11017,CSF next to Left paracentral (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,3.4618,0.105178,0.364106
+11017,CSF next to Left paracentral (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,3.4618,0.0410337,0.142051
+11018,CSF next to Left parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,2.74483,0,0
+11018,CSF next to Left parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,2.74483,0.0905368,0.248508
+11018,CSF next to Left parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,2.74483,0.186165,0.51099
+11018,CSF next to Left parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,2.74483,0.127507,0.349984
+11018,CSF next to Left parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,2.74483,0.0634433,0.174141
+11019,CSF next to Left parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,0.8642,0,0
+11019,CSF next to Left parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,0.8642,0.143153,0.123712
+11019,CSF next to Left parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,0.8642,0.198936,0.17192
+11019,CSF next to Left parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,0.8642,0.102696,0.0887499
+11019,CSF next to Left parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,0.8642,0.0443677,0.0383426
+11020,CSF next to Left parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,2.19258,0,0
+11020,CSF next to Left parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,2.19258,0.0636559,0.139571
+11020,CSF next to Left parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,2.19258,0.200757,0.440176
+11020,CSF next to Left parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,2.19258,0.126435,0.277218
+11020,CSF next to Left parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,2.19258,0.0558997,0.122565
+11021,CSF next to Left pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-01,0,0.884589,0,0
+11021,CSF next to Left pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,0.884589,0.212651,0.188108
+11021,CSF next to Left pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,0.884589,0.201539,0.178279
+11021,CSF next to Left pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,0.884589,0.0810136,0.0716637
+11021,CSF next to Left pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,0.884589,0.0325005,0.0287495
+11022,CSF next to Left postcentral (cortex),CSF: next to parietal cortex,CSF,ses-01,0,11.6588,0,0
+11022,CSF next to Left postcentral (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,11.6588,0.0308732,0.359943
+11022,CSF next to Left postcentral (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,11.6588,0.176586,2.05878
+11022,CSF next to Left postcentral (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,11.6588,0.145756,1.69934
+11022,CSF next to Left postcentral (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,11.6588,0.0824437,0.961192
+11023,CSF next to Left posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.5763,0,0
+11023,CSF next to Left posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.5763,0.227022,0.357855
+11023,CSF next to Left posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.5763,0.233825,0.368578
+11023,CSF next to Left posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.5763,0.0849155,0.133852
+11023,CSF next to Left posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.5763,0.0313091,0.0493525
+11024,CSF next to Left precentral (cortex),CSF: next to frontal cortex,CSF,ses-01,0,11.1041,0,0
+11024,CSF next to Left precentral (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,11.1041,0.0219481,0.243715
+11024,CSF next to Left precentral (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,11.1041,0.159976,1.7764
+11024,CSF next to Left precentral (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,11.1041,0.136851,1.51961
+11024,CSF next to Left precentral (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,11.1041,0.0862203,0.957403
+11025,CSF next to Left precuneus (cortex),CSF: next to parietal cortex,CSF,ses-01,0,4.65422,0,0
+11025,CSF next to Left precuneus (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,4.65422,0.12029,0.559855
+11025,CSF next to Left precuneus (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,4.65422,0.216062,1.0056
+11025,CSF next to Left precuneus (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,4.65422,0.0905128,0.421267
+11025,CSF next to Left precuneus (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,4.65422,0.0343598,0.159918
+11026,CSF next to Left rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.17954,0,0
+11026,CSF next to Left rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.17954,0.351939,0.415125
+11026,CSF next to Left rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.17954,0.199491,0.235307
+11026,CSF next to Left rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.17954,0.0683449,0.0806152
+11026,CSF next to Left rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.17954,0.0230214,0.0271545
+11027,CSF next to Left rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,7.25133,0,0
+11027,CSF next to Left rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,7.25133,0.00218447,0.0158403
+11027,CSF next to Left rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,7.25133,0.18015,1.30633
+11027,CSF next to Left rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,7.25133,0.147386,1.06874
+11027,CSF next to Left rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,7.25133,0.0749249,0.543305
+11028,CSF next to Left superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,22.5234,0,0
+11028,CSF next to Left superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,22.5234,0.0417884,0.941214
+11028,CSF next to Left superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,22.5234,0.175747,3.95841
+11028,CSF next to Left superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,22.5234,0.136129,3.06608
+11028,CSF next to Left superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,22.5234,0.0745448,1.679
+11029,CSF next to Left superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,10.4647,0,0
+11029,CSF next to Left superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,10.4647,0.00285811,0.0299093
+11029,CSF next to Left superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,10.4647,0.124815,1.30615
+11029,CSF next to Left superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,10.4647,0.139221,1.45691
+11029,CSF next to Left superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,10.4647,0.0847835,0.887236
+11030,CSF next to Left superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,9.06854,0,0
+11030,CSF next to Left superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,9.06854,0.192027,1.7414
+11030,CSF next to Left superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,9.06854,0.210451,1.90848
+11030,CSF next to Left superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,9.06854,0.099409,0.901494
+11030,CSF next to Left superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,9.06854,0.0417023,0.378179
+11031,CSF next to Left supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,6.1601,0,0
+11031,CSF next to Left supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,6.1601,0.0502024,0.309252
+11031,CSF next to Left supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,6.1601,0.228464,1.40736
+11031,CSF next to Left supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,6.1601,0.124559,0.767293
+11031,CSF next to Left supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,6.1601,0.056185,0.346105
+11034,CSF next to Left transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,0.655811,0,0
+11034,CSF next to Left transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,0.655811,0.306227,0.200827
+11034,CSF next to Left transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,0.655811,0.23613,0.154857
+11034,CSF next to Left transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,0.655811,0.098731,0.0647489
+11034,CSF next to Left transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,0.655811,0.0390658,0.0256198
+11035,CSF next to Left insula (cortex),CSF: next to insula cortex,CSF,ses-01,0,2.78073,0,0
+11035,CSF next to Left insula (cortex),CSF: next to insula cortex,CSF,ses-02,4.36576,2.78073,0.299579,0.833048
+11035,CSF next to Left insula (cortex),CSF: next to insula cortex,CSF,ses-03,23.8892,2.78073,0.218994,0.608962
+11035,CSF next to Left insula (cortex),CSF: next to insula cortex,CSF,ses-04,47.8556,2.78073,0.0923804,0.256885
+11035,CSF next to Left insula (cortex),CSF: next to insula cortex,CSF,ses-05,69.9003,2.78073,0.0366546,0.101926
+12002,CSF next to Right caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.01242,0,0
+12002,CSF next to Right caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.01242,0.281019,0.284511
+12002,CSF next to Right caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.01242,0.213918,0.216576
+12002,CSF next to Right caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.01242,0.0784118,0.079386
+12002,CSF next to Right caudalanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.01242,0.0295803,0.0299478
+12003,CSF next to Right caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,4.44546,0,0
+12003,CSF next to Right caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,4.44546,-7.20447e-05,-0.000320272
+12003,CSF next to Right caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,4.44546,0.0532428,0.236689
+12003,CSF next to Right caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,4.44546,0.116729,0.518914
+12003,CSF next to Right caudalmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,4.44546,0.104281,0.463575
+12005,CSF next to Right cuneus (cortex),CSF: next to occipital cortex,CSF,ses-01,0,2.93145,0,0
+12005,CSF next to Right cuneus (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,2.93145,0.126124,0.369726
+12005,CSF next to Right cuneus (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,2.93145,0.208945,0.612513
+12005,CSF next to Right cuneus (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,2.93145,0.0915077,0.26825
+12005,CSF next to Right cuneus (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,2.93145,0.0360775,0.105759
+12006,CSF next to Right entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,1.29911,0,0
+12006,CSF next to Right entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,1.29911,0.518424,0.673493
+12006,CSF next to Right entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,1.29911,0.209712,0.27244
+12006,CSF next to Right entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,1.29911,0.0717235,0.0931771
+12006,CSF next to Right entorhinal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,1.29911,0.0275863,0.0358377
+12007,CSF next to Right fusiform (cortex),CSF: next to temporal cortex,CSF,ses-01,0,2.46627,0,0
+12007,CSF next to Right fusiform (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,2.46627,0.105742,0.260788
+12007,CSF next to Right fusiform (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,2.46627,0.106655,0.26304
+12007,CSF next to Right fusiform (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,2.46627,0.0622754,0.153588
+12007,CSF next to Right fusiform (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,2.46627,0.0344119,0.084869
+12008,CSF next to Right inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,8.99536,0,0
+12008,CSF next to Right inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,8.99536,-1.86878e-05,-0.000168104
+12008,CSF next to Right inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,8.99536,0.0681167,0.612735
+12008,CSF next to Right inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,8.99536,0.107042,0.962883
+12008,CSF next to Right inferiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,8.99536,0.0781614,0.70309
+12009,CSF next to Right inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,2.41873,0,0
+12009,CSF next to Right inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,2.41873,0.0286457,0.0692863
+12009,CSF next to Right inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,2.41873,0.0648739,0.156913
+12009,CSF next to Right inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,2.41873,0.0669045,0.161824
+12009,CSF next to Right inferiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,2.41873,0.047241,0.114263
+12010,CSF next to Right isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,0.990409,0,0
+12010,CSF next to Right isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,0.990409,0.314612,0.311594
+12010,CSF next to Right isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,0.990409,0.191164,0.18933
+12010,CSF next to Right isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,0.990409,0.0717158,0.0710279
+12010,CSF next to Right isthmuscingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,0.990409,0.0286531,0.0283783
+12011,CSF next to Right lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-01,0,4.36603,0,0
+12011,CSF next to Right lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,4.36603,0.0044577,0.0194625
+12011,CSF next to Right lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,4.36603,0.0558754,0.243954
+12011,CSF next to Right lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,4.36603,0.0764731,0.333884
+12011,CSF next to Right lateraloccipital (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,4.36603,0.0533135,0.232769
+12012,CSF next to Right lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,3.03039,0,0
+12012,CSF next to Right lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,3.03039,0.206333,0.625271
+12012,CSF next to Right lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,3.03039,0.186474,0.56509
+12012,CSF next to Right lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,3.03039,0.0824319,0.249801
+12012,CSF next to Right lateralorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,3.03039,0.0346027,0.10486
+12013,CSF next to Right lingual (cortex),CSF: next to occipital cortex,CSF,ses-01,0,2.9282,0,0
+12013,CSF next to Right lingual (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,2.9282,0.135122,0.395665
+12013,CSF next to Right lingual (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,2.9282,0.161313,0.472356
+12013,CSF next to Right lingual (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,2.9282,0.0790848,0.231576
+12013,CSF next to Right lingual (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,2.9282,0.0344227,0.100797
+12014,CSF next to Right medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,2.94921,0,0
+12014,CSF next to Right medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,2.94921,0.434221,1.28061
+12014,CSF next to Right medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,2.94921,0.211389,0.62343
+12014,CSF next to Right medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,2.94921,0.0713141,0.21032
+12014,CSF next to Right medialorbitofrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,2.94921,0.026191,0.0772429
+12015,CSF next to Right middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,5.58046,0,0
+12015,CSF next to Right middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,5.58046,0.00663119,0.0370051
+12015,CSF next to Right middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,5.58046,0.113107,0.63119
+12015,CSF next to Right middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,5.58046,0.100029,0.558206
+12015,CSF next to Right middletemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,5.58046,0.0594449,0.33173
+12016,CSF next to Right parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,0.967394,0,0
+12016,CSF next to Right parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,0.967394,0.466726,0.451508
+12016,CSF next to Right parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,0.967394,0.202963,0.196345
+12016,CSF next to Right parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,0.967394,0.0722139,0.0698593
+12016,CSF next to Right parahippocampal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,0.967394,0.0270295,0.0261481
+12017,CSF next to Right paracentral (cortex),CSF: next to frontal cortex,CSF,ses-01,0,3.90998,0,0
+12017,CSF next to Right paracentral (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,3.90998,0.0533388,0.208554
+12017,CSF next to Right paracentral (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,3.90998,0.238847,0.933888
+12017,CSF next to Right paracentral (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,3.90998,0.113598,0.444167
+12017,CSF next to Right paracentral (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,3.90998,0.0471877,0.184503
+12018,CSF next to Right parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,2.27789,0,0
+12018,CSF next to Right parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,2.27789,0.0782897,0.178335
+12018,CSF next to Right parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,2.27789,0.219552,0.500116
+12018,CSF next to Right parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,2.27789,0.116705,0.265841
+12018,CSF next to Right parsopercularis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,2.27789,0.0533678,0.121566
+12019,CSF next to Right parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,1.03569,0,0
+12019,CSF next to Right parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,1.03569,0.0963793,0.099819
+12019,CSF next to Right parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,1.03569,0.207105,0.214496
+12019,CSF next to Right parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,1.03569,0.102461,0.106117
+12019,CSF next to Right parsorbitalis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,1.03569,0.0454801,0.0471032
+12020,CSF next to Right parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-01,0,2.16382,0,0
+12020,CSF next to Right parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,2.16382,0.0272619,0.0589896
+12020,CSF next to Right parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,2.16382,0.209371,0.453041
+12020,CSF next to Right parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,2.16382,0.126949,0.274694
+12020,CSF next to Right parstriangularis (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,2.16382,0.063125,0.136591
+12021,CSF next to Right pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-01,0,1.01755,0,0
+12021,CSF next to Right pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-02,4.36576,1.01755,0.136477,0.138873
+12021,CSF next to Right pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-03,23.8892,1.01755,0.198532,0.202017
+12021,CSF next to Right pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-04,47.8556,1.01755,0.0872694,0.0888011
+12021,CSF next to Right pericalcarine (cortex),CSF: next to occipital cortex,CSF,ses-05,69.9003,1.01755,0.0331963,0.0337789
+12022,CSF next to Right postcentral (cortex),CSF: next to parietal cortex,CSF,ses-01,0,11.7346,0,0
+12022,CSF next to Right postcentral (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,11.7346,0.0144192,0.169203
+12022,CSF next to Right postcentral (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,11.7346,0.176442,2.07047
+12022,CSF next to Right postcentral (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,11.7346,0.155392,1.82346
+12022,CSF next to Right postcentral (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,11.7346,0.084911,0.996393
+12023,CSF next to Right posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,1.28661,0,0
+12023,CSF next to Right posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,1.28661,0.156853,0.201808
+12023,CSF next to Right posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,1.28661,0.203196,0.261434
+12023,CSF next to Right posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,1.28661,0.0815831,0.104965
+12023,CSF next to Right posteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,1.28661,0.0305447,0.039299
+12024,CSF next to Right precentral (cortex),CSF: next to frontal cortex,CSF,ses-01,0,10.3867,0,0
+12024,CSF next to Right precentral (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,10.3867,0.0169932,0.176502
+12024,CSF next to Right precentral (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,10.3867,0.164795,1.71167
+12024,CSF next to Right precentral (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,10.3867,0.141185,1.46644
+12024,CSF next to Right precentral (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,10.3867,0.0832002,0.864173
+12025,CSF next to Right precuneus (cortex),CSF: next to parietal cortex,CSF,ses-01,0,4.75116,0,0
+12025,CSF next to Right precuneus (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,4.75116,0.0993001,0.471791
+12025,CSF next to Right precuneus (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,4.75116,0.212983,1.01192
+12025,CSF next to Right precuneus (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,4.75116,0.092592,0.43992
+12025,CSF next to Right precuneus (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,4.75116,0.0368633,0.175143
+12026,CSF next to Right rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-01,0,0.920112,0,0
+12026,CSF next to Right rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-02,4.36576,0.920112,0.361754,0.332854
+12026,CSF next to Right rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-03,23.8892,0.920112,0.202577,0.186393
+12026,CSF next to Right rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-04,47.8556,0.920112,0.0722885,0.0665136
+12026,CSF next to Right rostralanteriorcingulate (cortex),CSF: next to cingulate cortex,CSF,ses-05,69.9003,0.920112,0.0274405,0.0252483
+12027,CSF next to Right rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,9.36961,0,0
+12027,CSF next to Right rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,9.36961,-0.000698219,-0.00654204
+12027,CSF next to Right rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,9.36961,0.107729,1.00937
+12027,CSF next to Right rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,9.36961,0.129827,1.21643
+12027,CSF next to Right rostralmiddlefrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,9.36961,0.0891877,0.835654
+12028,CSF next to Right superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-01,0,23.155,0,0
+12028,CSF next to Right superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-02,4.36576,23.155,0.0361622,0.837337
+12028,CSF next to Right superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-03,23.8892,23.155,0.146417,3.3903
+12028,CSF next to Right superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-04,47.8556,23.155,0.110713,2.56357
+12028,CSF next to Right superiorfrontal (cortex),CSF: next to frontal cortex,CSF,ses-05,69.9003,23.155,0.0733698,1.69888
+12029,CSF next to Right superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,11.8024,0,0
+12029,CSF next to Right superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,11.8024,0.00343969,0.0405965
+12029,CSF next to Right superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,11.8024,0.0800728,0.945048
+12029,CSF next to Right superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,11.8024,0.119894,1.41503
+12029,CSF next to Right superiorparietal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,11.8024,0.0874439,1.03204
+12030,CSF next to Right superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,8.68228,0,0
+12030,CSF next to Right superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,8.68228,0.148188,1.28661
+12030,CSF next to Right superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,8.68228,0.214753,1.86454
+12030,CSF next to Right superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,8.68228,0.103502,0.898633
+12030,CSF next to Right superiortemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,8.68228,0.0448943,0.389785
+12031,CSF next to Right supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-01,0,7.14688,0,0
+12031,CSF next to Right supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-02,4.36576,7.14688,0.0201024,0.143669
+12031,CSF next to Right supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-03,23.8892,7.14688,0.204828,1.46388
+12031,CSF next to Right supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-04,47.8556,7.14688,0.13987,0.999632
+12031,CSF next to Right supramarginal (cortex),CSF: next to parietal cortex,CSF,ses-05,69.9003,7.14688,0.0670543,0.479229
+12034,CSF next to Right transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-01,0,0.762257,0,0
+12034,CSF next to Right transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-02,4.36576,0.762257,0.234038,0.178397
+12034,CSF next to Right transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-03,23.8892,0.762257,0.256555,0.195561
+12034,CSF next to Right transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-04,47.8556,0.762257,0.112574,0.0858102
+12034,CSF next to Right transversetemporal (cortex),CSF: next to temporal cortex,CSF,ses-05,69.9003,0.762257,0.0454965,0.03468
+12035,CSF next to Right insula (cortex),CSF: next to insula cortex,CSF,ses-01,0,2.90006,0,0
+12035,CSF next to Right insula (cortex),CSF: next to insula cortex,CSF,ses-02,4.36576,2.90006,0.238521,0.691724
+12035,CSF next to Right insula (cortex),CSF: next to insula cortex,CSF,ses-03,23.8892,2.90006,0.232675,0.67477
+12035,CSF next to Right insula (cortex),CSF: next to insula cortex,CSF,ses-04,47.8556,2.90006,0.0997461,0.289269
+12035,CSF next to Right insula (cortex),CSF: next to insula cortex,CSF,ses-05,69.9003,2.90006,0.0397092,0.115159
+20001,All brain tissue,Summary regions,aggregate,ses-01,0,985.619,0,0
+20001,All brain tissue,Summary regions,aggregate,ses-02,4.36576,985.619,0.0118845,11.7136
+20001,All brain tissue,Summary regions,aggregate,ses-03,23.8892,985.619,0.0447341,44.0907
+20001,All brain tissue,Summary regions,aggregate,ses-04,47.8556,985.619,0.0408325,40.2453
+20001,All brain tissue,Summary regions,aggregate,ses-05,69.9003,985.619,0.027119,26.729
+20002,Cerebral cortex,Summary regions,aggregate,ses-01,0,397.682,0,0
+20002,Cerebral cortex,Summary regions,aggregate,ses-02,4.36576,397.682,0.01557,6.19192
+20002,Cerebral cortex,Summary regions,aggregate,ses-03,23.8892,397.682,0.0546104,21.7176
+20002,Cerebral cortex,Summary regions,aggregate,ses-04,47.8556,397.682,0.0432055,17.1821
+20002,Cerebral cortex,Summary regions,aggregate,ses-05,69.9003,397.682,0.0259656,10.326
+20003,Cortex: frontal,Summary regions,aggregate,ses-01,0,135.362,0,0
+20003,Cortex: frontal,Summary regions,aggregate,ses-02,4.36576,135.362,0.0119216,1.61373
+20003,Cortex: frontal,Summary regions,aggregate,ses-03,23.8892,135.362,0.0554705,7.50858
+20003,Cortex: frontal,Summary regions,aggregate,ses-04,47.8556,135.362,0.0465453,6.30045
+20003,Cortex: frontal,Summary regions,aggregate,ses-05,69.9003,135.362,0.0285397,3.86318
+20004,Cortex: parietal,Summary regions,aggregate,ses-01,0,96.8436,0,0
+20004,Cortex: parietal,Summary regions,aggregate,ses-02,4.36576,96.8436,0.00739408,0.716069
+20004,Cortex: parietal,Summary regions,aggregate,ses-03,23.8892,96.8436,0.0492595,4.77047
+20004,Cortex: parietal,Summary regions,aggregate,ses-04,47.8556,96.8436,0.0463744,4.49107
+20004,Cortex: parietal,Summary regions,aggregate,ses-05,69.9003,96.8436,0.0282802,2.73875
+20005,Cortex: temporal,Summary regions,aggregate,ses-01,0,90.5119,0,0
+20005,Cortex: temporal,Summary regions,aggregate,ses-02,4.36576,90.5119,0.0143569,1.29947
+20005,Cortex: temporal,Summary regions,aggregate,ses-03,23.8892,90.5119,0.0487797,4.41514
+20005,Cortex: temporal,Summary regions,aggregate,ses-04,47.8556,90.5119,0.0388104,3.5128
+20005,Cortex: temporal,Summary regions,aggregate,ses-05,69.9003,90.5119,0.0237745,2.15188
+20006,Cortex: occipital,Summary regions,aggregate,ses-01,0,45.1569,0,0
+20006,Cortex: occipital,Summary regions,aggregate,ses-02,4.36576,45.1569,0.0188732,0.852254
+20006,Cortex: occipital,Summary regions,aggregate,ses-03,23.8892,45.1569,0.0541153,2.44368
+20006,Cortex: occipital,Summary regions,aggregate,ses-04,47.8556,45.1569,0.0365272,1.64945
+20006,Cortex: occipital,Summary regions,aggregate,ses-05,69.9003,45.1569,0.0210688,0.951403
+20007,Cortex: cingulate,Summary regions,aggregate,ses-01,0,19.7755,0,0
+20007,Cortex: cingulate,Summary regions,aggregate,ses-02,4.36576,19.7755,0.064034,1.26631
+20007,Cortex: cingulate,Summary regions,aggregate,ses-03,23.8892,19.7755,0.0896272,1.77243
+20007,Cortex: cingulate,Summary regions,aggregate,ses-04,47.8556,19.7755,0.040046,0.791931
+20007,Cortex: cingulate,Summary regions,aggregate,ses-05,69.9003,19.7755,0.0202642,0.400736
+20008,Cortex: insula,Summary regions,aggregate,ses-01,0,10.0321,0,0
+20008,Cortex: insula,Summary regions,aggregate,ses-02,4.36576,10.0321,0.0442662,0.444081
+20008,Cortex: insula,Summary regions,aggregate,ses-03,23.8892,10.0321,0.0804691,0.80727
+20008,Cortex: insula,Summary regions,aggregate,ses-04,47.8556,10.0321,0.0434955,0.436349
+20008,Cortex: insula,Summary regions,aggregate,ses-05,69.9003,10.0321,0.0219383,0.220086
+20010,Cerebral white matter,Summary regions,aggregate,ses-01,0,415.665,0,0
+20010,Cerebral white matter,Summary regions,aggregate,ses-02,4.36576,415.665,0.000256288,0.10653
+20010,Cerebral white matter,Summary regions,aggregate,ses-03,23.8892,415.665,0.0337366,14.0231
+20010,Cerebral white matter,Summary regions,aggregate,ses-04,47.8556,415.665,0.0419198,17.4246
+20010,Cerebral white matter,Summary regions,aggregate,ses-05,69.9003,415.665,0.0311975,12.9677
+20011,Deep grey matter,Summary regions,aggregate,ses-01,0,48.0382,0,0
+20011,Deep grey matter,Summary regions,aggregate,ses-02,4.36576,48.0382,0.0219617,1.055
+20011,Deep grey matter,Summary regions,aggregate,ses-03,23.8892,48.0382,0.0339658,1.63166
+20011,Deep grey matter,Summary regions,aggregate,ses-04,47.8556,48.0382,0.0243152,1.16806
+20011,Deep grey matter,Summary regions,aggregate,ses-05,69.9003,48.0382,0.0158823,0.762956
+20012,Cerebellum,Summary regions,aggregate,ses-01,0,104.789,0,0
+20012,Cerebellum,Summary regions,aggregate,ses-02,4.36576,104.789,0.0305904,3.20554
+20012,Cerebellum,Summary regions,aggregate,ses-03,23.8892,104.789,0.0539865,5.65721
+20012,Cerebellum,Summary regions,aggregate,ses-04,47.8556,104.789,0.0368011,3.85636
+20012,Cerebellum,Summary regions,aggregate,ses-05,69.9003,104.789,0.0220417,2.30973
+20013,Brainstem,Summary regions,aggregate,ses-01,0,18.7682,0,0
+20013,Brainstem,Summary regions,aggregate,ses-02,4.36576,18.7682,0.0589969,1.10727
+20013,Brainstem,Summary regions,aggregate,ses-03,23.8892,18.7682,0.0546074,1.02489
+20013,Brainstem,Summary regions,aggregate,ses-04,47.8556,18.7682,0.0321816,0.603993
+20013,Brainstem,Summary regions,aggregate,ses-05,69.9003,18.7682,0.0191813,0.359999
+20020,All intracranial CSF,Summary regions,aggregate,ses-01,0,402.86,0,0
+20020,All intracranial CSF,Summary regions,aggregate,ses-02,4.36576,402.86,0.153199,61.7177
+20020,All intracranial CSF,Summary regions,aggregate,ses-03,23.8892,402.86,0.163034,65.68
+20020,All intracranial CSF,Summary regions,aggregate,ses-04,47.8556,402.86,0.0996122,40.1297
+20020,All intracranial CSF,Summary regions,aggregate,ses-05,69.9003,402.86,0.0525273,21.1611
+20021,CSF: ventricles,Summary regions,aggregate,ses-01,0,46.2849,0,0
+20021,CSF: ventricles,Summary regions,aggregate,ses-02,4.36576,46.2849,0.127837,5.91693
+20021,CSF: ventricles,Summary regions,aggregate,ses-03,23.8892,46.2849,0.105877,4.90051
+20021,CSF: ventricles,Summary regions,aggregate,ses-04,47.8556,46.2849,0.0368955,1.70771
+20021,CSF: ventricles,Summary regions,aggregate,ses-05,69.9003,46.2849,0.0142459,0.65937
+20022,CSF: subarachnoid space over the cerebrum,Summary regions,aggregate,ses-01,0,290.719,0,0
+20022,CSF: subarachnoid space over the cerebrum,Summary regions,aggregate,ses-02,4.36576,290.719,0.074965,21.7937
+20022,CSF: subarachnoid space over the cerebrum,Summary regions,aggregate,ses-03,23.8892,290.719,0.160394,46.6294
+20022,CSF: subarachnoid space over the cerebrum,Summary regions,aggregate,ses-04,47.8556,290.719,0.114595,33.315
+20022,CSF: subarachnoid space over the cerebrum,Summary regions,aggregate,ses-05,69.9003,290.719,0.0641044,18.6363
+20023,CSF: around cerebellum & brainstem,Summary regions,aggregate,ses-01,0,57.7097,0,0
+20023,CSF: around cerebellum & brainstem,Summary regions,aggregate,ses-02,4.36576,57.7097,0.535018,30.8757
+20023,CSF: around cerebellum & brainstem,Summary regions,aggregate,ses-03,23.8892,57.7097,0.219936,12.6924
+20023,CSF: around cerebellum & brainstem,Summary regions,aggregate,ses-04,47.8556,57.7097,0.0797276,4.60105
+20023,CSF: around cerebellum & brainstem,Summary regions,aggregate,ses-05,69.9003,57.7097,0.0292331,1.68703
+20030,"Other intracranial (dura, vessels, unlabelled)",Summary regions,aggregate,ses-01,0,94.2811,0,0
+20030,"Other intracranial (dura, vessels, unlabelled)",Summary regions,aggregate,ses-02,4.36576,94.2811,0.0551138,5.19619
+20030,"Other intracranial (dura, vessels, unlabelled)",Summary regions,aggregate,ses-03,23.8892,94.2811,0.0889668,8.38789
+20030,"Other intracranial (dura, vessels, unlabelled)",Summary regions,aggregate,ses-04,47.8556,94.2811,0.056774,5.35272
+20030,"Other intracranial (dura, vessels, unlabelled)",Summary regions,aggregate,ses-05,69.9003,94.2811,0.0287868,2.71405
+20040,Whole intracranial space,Summary regions,aggregate,ses-01,0,1482.76,0,0
+20040,Whole intracranial space,Summary regions,aggregate,ses-02,4.36576,1482.76,0.0530278,78.6275
+20040,Whole intracranial space,Summary regions,aggregate,ses-03,23.8892,1482.76,0.0796883,118.159
+20040,Whole intracranial space,Summary regions,aggregate,ses-04,47.8556,1482.76,0.0578164,85.7278
+20040,Whole intracranial space,Summary regions,aggregate,ses-05,69.9003,1482.76,0.0341284,50.6042

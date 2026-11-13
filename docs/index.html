@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gonzo Tracer Viewer</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.35.2/plotly.min.js"></script>
+</head>
+<body>
+<header class="top">
+  <h1>The Gonzo dataset: CSF tracer in the human brain over 72 hours</h1>
+  <nav><a href="index.html">Dataset &amp; viewer</a><a href="data.html">Data downloads</a></nav>
+</header>
+<main>
+  <p class="lead">The Gonzo dataset follows an MRI contrast agent injected into the cerebrospinal fluid (CSF) of a healthy human volunteer for three days, as it spreads around and into the brain and is then cleared. It is made for data-integrated simulations of brain fluid transport.</p>
+  <dl class="facts">
+    <div><dt>Subject</dt><dd>One healthy volunteer</dd></div>
+    <div><dt>Tracer</dt><dd>0.25 mmol gadobutrol, intrathecal (lumbar) injection</dd></div>
+    <div><dt>MRI sessions</dt><dd>Before injection, then about 4, 24, 48 and 70 h after</dd></div>
+    <div><dt>Measurements</dt><dd>T₁ maps → tracer concentration (0.5 mm), T1w, T2w, FLAIR, DTI, blood plasma samples</dd></div>
+    <div><dt>Derived data</dt><dd>FreeSurfer segmentations, surfaces and a finite element mesh</dd></div>
+    <div><dt>Licence</dt><dd>CC BY 4.0</dd></div>
+  </dl>
+  <div class="links">
+    <a class="btn primary" href="https://doi.org/10.5281/zenodo.14266867">Dataset on Zenodo</a>
+    <a class="btn" href="https://doi.org/10.1101/2025.07.23.25331971">Data descriptor (medRxiv)</a>
+    <a class="btn" href="https://github.com/jorgenriseth/gonzo">Processing pipeline (GitHub)</a>
+    <a class="btn" href="data.html">Lightweight data subset</a>
+  </div>
+  <p class="cite">Riseth J, Koch T, Lian SL, Storås TH, Zikatanov LT, Valnes LM, Nordengen K, Mardal K-A. <i>The Gonzo dataset: human brain MRI data of CSF tracer evolution over 72 h for data-integrated simulations.</i> Zenodo, doi:10.5281/zenodo.14266867.</p>
+
+  <h2>Tracer concentration over time</h2>
+  <p>Concentration estimated from T₁ maps, shown here at 1 mm (downsampled from 0.5 mm). Click anywhere in the images to see the concentration over time at that point. For research use, download the original data from Zenodo.</p>
+  <p>The <b>Show</b> menu also has the <b>diffusion tensor imaging (DTI)</b> maps, measured before the injection in brain tissue: how fast water diffuses (<i>mean diffusivity</i>, MD), how strongly it prefers one direction (<i>fractional anisotropy</i>, FA, from 0 = the same in all directions to 1 = along a single line), and the preferred direction itself, coloured red for left–right, green for front–back and blue for up–down, with brightness given by FA. Bright, coloured tracts are white-matter fibre bundles.</p>
+
+  <div class="controls">
+    <div id="timeButtons"></div>
+    <label>Show
+      <select id="mode">
+        <option value="conc">Concentration on anatomy</option>
+        <option value="t1">Anatomy only</option>
+        <option value="labels">Regions (FreeSurfer)</option>
+        <optgroup label="Diffusion tensor imaging (DTI)">
+          <option value="md">DTI: mean diffusivity (MD)</option>
+          <option value="fa">DTI: fractional anisotropy (FA)</option>
+          <option value="dir">DTI: fibre direction (colour × FA)</option>
+        </optgroup>
+      </select>
+    </label>
+    <label id="vmaxLabel">Colour max <input id="vmax" type="range" min="0.02" max="1" step="0.01" value="0.25"> <span id="vmaxVal"></span> mmol/L</label>
+    <label>Opacity <input id="alpha" type="range" min="0" max="1" step="0.05" value="0.85"></label>
+    <div class="colorbar"><span id="cbarMin">0</span><canvas id="cbar" width="180" height="12"></canvas><span id="cbarMax"></span></div>
+  </div>
+
+  <div class="views">
+    <div class="view"><canvas id="axial"></canvas><span class="tag">Axial</span></div>
+    <div class="view"><canvas id="coronal"></canvas><span class="tag">Coronal</span></div>
+    <div class="view"><canvas id="sagittal"></canvas><span class="tag">Sagittal</span></div>
+  </div>
+  <p id="status">Loading data…</p>
+
+  <div class="info">
+    <div class="card" id="voxelInfo">Click on an image to inspect a voxel.</div>
+    <div class="card"><div id="voxelPlot" class="plot"></div></div>
+  </div>
+
+  <h2>Regional enhancement curves</h2>
+  <p>Mean tracer concentration in each FreeSurfer region. Pick several regions to compare them (Ctrl/Cmd-click).</p>
+  <div class="info">
+    <div class="card">
+      <label>Quantity
+        <select id="quantity">
+          <option value="mean">Mean concentration (mmol/L)</option>
+          <option value="amount">Tracer amount (µmol)</option>
+        </select>
+      </label>
+      <select id="regionSelect" multiple></select>
+      <label><input type="checkbox" id="showBlood"> show blood plasma</label>
+    </div>
+    <div class="card"><div id="regionPlot" class="plot"></div></div>
+  </div>
+
+</main>
+<script src="viewer.js"></script>
+</body>
+</html>

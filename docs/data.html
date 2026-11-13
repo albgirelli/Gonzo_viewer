@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gonzo Data Subset</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1>The Gonzo dataset: lightweight subset</h1>
+  <nav><a href="index.html">Dataset &amp; viewer</a><a href="data.html">Data downloads</a></nav>
+</header>
+<main>
+  <p class="lead">A reduced version of the Gonzo dataset (about 50 MB) for teaching, quick exploration and modelling: region tables, downsampled 3D volumes and a finite element mesh,. No FreeSurfer or NIfTI tools needed. For research, use the original data on <a href="https://doi.org/10.5281/zenodo.14266867">Zenodo</a>.</p>
+
+
+  <h2>Files</h2>
+  <p>All concentrations are in mmol/L (= mM), amounts in µmol, times in hours after injection. The pre-injection scan is placed at t = 0, where the concentration is zero by definition.</p>
+  <div class="table-wrap"><table>
+    <tr><th>File</th><th>Content</th><th>Size</th></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/sessions.csv">sessions.csv</a></td><td>The five MRI sessions and their times</td><td>&lt;1 kB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/blood_plasma.csv">blood_plasma.csv</a></td><td>Tracer concentration in blood plasma, 9 samples over 48 h</td><td>&lt;1 kB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/regions.csv">regions.csv</a></td><td>One row per region (≈200): FreeSurfer brain regions, CSF next to each region, and summary regions (whole brain, lobes, all CSF, ventricles…). Volume, DTI mean diffusivity and fractional anisotropy (brain tissue), mean concentration and tracer amount at each time.</td><td>36 kB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/region_timeseries.csv">region_timeseries.csv</a></td><td>Same as above in "long" format (one row per region and time)</td><td>100 kB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/depth_profiles.csv">depth_profiles.csv</a></td><td>Mean/median concentration against distance from the brain surface (−6 mm in the CSF to +18 mm in the tissue), 1 mm bins</td><td>8 kB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/volumes/gonzo_2mm.npz">volumes/gonzo_2mm.npz</a><br><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/volumes/gonzo_1mm.npz">volumes/gonzo_1mm.npz</a></td><td>NumPy archives: <code>concentration</code> (5 × nx × ny × nz, NaN outside the head), <code>labels</code>, <code>t1w</code> (anatomy), <code>diffusion_tensor</code> (DTI, nx × ny × nz × 6: D<sub>xx</sub>, D<sub>xy</sub>, D<sub>xz</sub>, D<sub>yy</sub>, D<sub>yz</sub>, D<sub>zz</sub> in mm²/s), <code>mean_diffusivity</code> (mm²/s), <code>fractional_anisotropy</code>, <code>principal_direction</code> (unit vector of fastest diffusion, nx × ny × nz × 3), <code>affine</code> (voxel → mm), <code>hours</code>. Axes: right, anterior, superior.</td><td>5 MB / 27 MB</td></tr>
+    <tr><td><a href="https://github.com/albgirelli/gonzo-viewer/raw/main/data/mesh/gonzo_mesh.npz">mesh/gonzo_mesh.npz</a></td><td>Tetrahedral brain mesh (≈100k vertices, 490k cells, mm): <code>points</code>, <code>tetrahedra</code>, <code>subdomains</code> (1 cortical grey, 2 white, 3 subcortical grey matter), <code>parcellations</code>, DTI per cell, measured <code>concentration</code> and CSF <code>boundary_concentration</code> per vertex and time</td><td>20 MB</td></tr>
+  </table></div>
+
+  <h3>Labels</h3>
+  <p>Brain tissue uses FreeSurfer <code>aparc+aseg</code> numbers: cortex 1001–1035 (left) and 2001–2035 (right, Desikan–Killiany atlas), white matter 2/41, and so on. A CSF voxel has label <code>10000 + n</code>, where <code>n</code> is the brain region it is closest to (so 14 → 3rd ventricle, 1028 → next to the left superior frontal cortex). <code>9999</code> is other intracranial tissue (dura, large vessels, unlabelled). Names are in <code>regions.csv</code>.</p>
+
+  <h3>Loading in Python</h3>
+<pre>import numpy as np, pandas as pd
+regions = pd.read_csv("data/regions.csv")
+vol = np.load("data/volumes/gonzo_2mm.npz")
+c = vol["concentration"]          # (5, nx, ny, nz), float16, mmol/L
+labels = vol["labels"]            # (nx, ny, nz)
+cortex = (labels &gt;= 1000) &amp; (labels &lt; 3000)
+print(np.nanmean(c[:, cortex].astype(float), axis=1))</pre>
+  <p>MATLAB or Julia users: <code>.npz</code> files are zip archives of <code>.npy</code> arrays (e.g. <code>NPZ.jl</code>, or <code>readNPY</code> for MATLAB); the CSV files work everywhere.</p>
+
+  <h2>How the data were made</h2>
+  <p>T1 relaxation times were mapped with Look-Locker and mixed inversion-recovery/spin-echo sequences, registered to the baseline anatomy, and converted to concentration with <i>c</i> = (1/T₁ − 1/T₁,baseline) / r₁, where r₁ = 3.2 L mmol⁻¹ s⁻¹ is the relaxivity of gadobutrol. The original 0.5 mm data were cropped to the head and averaged into 1 mm and 2 mm blocks. Region statistics were computed at full resolution. The script that builds this subset is in <code>scripts/build_subset.py</code>.</p>
+  <p>Diffusion tensor imaging (DTI) was acquired once, before the injection. The diffusion tensor <b>D</b> (a symmetric 3 × 3 matrix per voxel) is given in brain tissue only, NaN elsewhere. Mean diffusivity is MD = trace(<b>D</b>)/3, fractional anisotropy FA = √(3/2)·|λ − MD|/|λ| from the eigenvalues λ, and the principal direction is the eigenvector of the largest eigenvalue. In the downsampled volumes the tensor is averaged over each block before MD, FA and direction are computed, so FA is somewhat lower than at full resolution. The tensor can be used directly as an anisotropic diffusion coefficient (it describes water; the tracer, a larger molecule, diffuses about 7 times more slowly).</p>
+  <p>Source: Riseth et al., <a href="https://doi.org/10.5281/zenodo.14266867">Gonzo dataset</a> (CC BY 4.0), processing pipeline at <a href="https://github.com/jorgenriseth/gonzo">github.com/jorgenriseth/gonzo</a>.</p>
+</main>
+</body>
+</html>
